@@ -1,5 +1,0 @@
----
-layout: redirect
-date: 2009-09-30 -0800
-redirect: /archive/2009/10/01/asp.net-mvc-preview-2-released.aspx/
----
