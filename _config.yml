@@ -1,28 +1,24 @@
 #
 # Blog Settings
 #
-author: Phil Haack
-description: You've been Haacked and you like it
-url: http://haacked.com
-title: You've Been Haacked
-subtitle: ...and you like it
-gravatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd
-subscribe_rss: http://feeds.haacked.com/haacked
+author: Sisly
+description: Et glimt af hverdagens køkken
+url: http://www.sisly.dk
+title: SISLY.DK
+subtitle: Et glimt af hverdagens køkken
+gravatar_url: https://2.gravatar.com/avatar/0
+subscribe_rss: http://feeds.haacked.com/0
 
 # Github repositories
-github_user: haacked
-github_repo_url: https://github.com/Haacked/haacked.com/
-
-# Twitter
-twitter_user: haacked
-twitter_tweet_button: true
+github_user: sisly
+github_repo_url: https://github.com/Sisly/sisly.dk/
 
 # Disqus Comments
-disqus_short_name: haacked
+disqus_short_name: sisly
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-177588-1
+google_analytics_tracking_id: 0
 
 
 #
