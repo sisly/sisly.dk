@@ -6,7 +6,7 @@ comments: true
 categories: ['Mandler', 'Snack']
 ---
 
-![Saltmandler](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https%3A%2F%2Fdl.dropboxusercontent.com%2Fu%2F7298%2Fblog%2FBlick_von_der_S%25C3%25BCleymaniye-Moschee.jpg&container=focus&resize_w=650&refresh=31536000)
+![Saltmandler](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220&container=focus&resize_w=700&refresh=31536000)
 
 ### Ingredienser
 ```bash
