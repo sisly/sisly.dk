@@ -21,7 +21,7 @@ Kom mandlerne på en bageplade og bag dem i en forvarmet ovn ved 185&deg; i ca. 
 
 Opbevar dem i en luftæt bøtte.
 
-<div class="js-flickity" data-flickity-options='{ "wrapAround": true }'>
+<div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true }'>
   <!-- images from unsplash.com -->
   <img src="http://i.imgur.com/bwy74ok.jpg" alt="orange tree">
   <img src="http://i.imgur.com/bAZWoqx.jpg" alt="submerged">
