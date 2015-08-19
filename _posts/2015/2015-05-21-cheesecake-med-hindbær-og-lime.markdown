@@ -4,30 +4,31 @@ title: "Cheesecake med hindbær og lime"
 date: 2015-05-21 -0100
 comments: true
 categories: ['Dessert', 'Fløde', 'Frugt & Bær', 'Hindbær', 'Kage', 'Ost']
+ingredienser: ['Fløde', 'Hindbær', 'Ost']
 ---
 
 ### Ingredienser
 
 ####Hindbærpuré
-350 g frosne hindbær
-1 spsk. limesaft
-50 g flormelis
+-   350 g frosne hindbær
+-   1 spsk. limesaft
+-   50 g flormelis
 
 ####Kiksebund
-75 g smør
-150 g digestive-kiks
+-   75 g smør
+-   150 g digestive-kiks
 
 ####Flødeostecreme
-5 blade husblas
-2 lime
-300 g flødeost naturel
-150 g sukker
-1½ dl piskefløde
-200 g cremefraiche 
-2 pasteuriserede æggehvider
+-   5 blade husblas
+-   2 lime
+-   300 g flødeost naturel
+-   150 g sukker
+-   1½ dl piskefløde
+-   200 g cremefraiche 
+-   2 pasteuriserede æggehvider
 
 ####Pynt
-Friske hindbær
+-   Friske hindbær
 
 ### Fremgangsmåde
 
