@@ -18,8 +18,8 @@ title: Arkiv
     </a>
 {% endfor %}
 
-{% for ingrediens in site.ingredienser %}
-    <a href="/{{ ingrediens | first | slugize }}/">
-        {{ ingrediens | first }}
+{% for tag in site.tags %}
+    <a href="/{{ tag | first | slugize }}/">
+        {{ tag | first }}
     </a>
 {% endfor %}
