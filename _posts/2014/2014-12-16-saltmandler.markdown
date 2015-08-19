@@ -5,17 +5,12 @@ date: 2014-12-16 -0100
 comments: true
 categories: ['Mandler', 'Snack']
 ---
-
-![Saltmandler](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220&container=focus&resize_w=700&refresh=31536000)(http://google.com)
-
-[![Saltmandler](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220&container=focus&resize_w=700&refresh=31536000)](http://google.com)
+[![Saltmandler](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220&container=focus&resize_w=700&refresh=31536000)](https://onedrive.live.com/redir?resid=642D8920DB2784EE!167220)
 
 ### Ingredienser
-```bash
 150 g fint salt
 5 dl vand
 200 g mandler
-```
 
 ### Fremgangsmåde
 

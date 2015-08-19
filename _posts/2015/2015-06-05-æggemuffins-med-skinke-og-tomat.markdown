@@ -7,7 +7,6 @@ categories: ['Muffins', 'Ost', 'Skinke', 'Til Madpakken', 'Tomater', 'Æg']
 ---
 
 ### Ingredienser til 5 store eller 10 små muffins
-```bash
 2 spsk mel 
 1 tsk salt 
 Lidt peber
@@ -16,7 +15,6 @@ Lidt peber
 3 æg 
 Skinke i tern
 Cherrytomater
-```
 
 ### Fremgangsmåde
 Rør mel, salt og bagepulver sammen. Tilsæt æggene og rør godt.

@@ -9,20 +9,15 @@ categories: ['Dessert', 'Fløde', 'Frugt & Bær', 'Hindbær', 'Kage', 'Ost']
 ### Ingredienser
 
 ####Hindbærpuré
-```bash
 350 g frosne hindbær
 1 spsk. limesaft
 50 g flormelis
-```
 
 ####Kiksebund
-```bash
 75 g smør
 150 g digestive-kiks
-```
 
 ####Flødeostecreme
-```bash
 5 blade husblas
 2 lime
 300 g flødeost naturel
@@ -30,12 +25,9 @@ categories: ['Dessert', 'Fløde', 'Frugt & Bær', 'Hindbær', 'Kage', 'Ost']
 1½ dl piskefløde
 200 g cremefraiche 
 2 pasteuriserede æggehvider
-```
 
 ####Pynt
-```bash
 Friske hindbær
-```
 
 ### Fremgangsmåde
 
