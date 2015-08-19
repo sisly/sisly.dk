@@ -17,3 +17,9 @@ title: Arkiv
         {{ category | first }}
     </a>
 {% endfor %}
+
+{% for ingrediens in site.ingredienser %}
+    <a href="/{{ ingrediens | first | slugize }}/">
+        {{ ingrediens | first }}
+    </a>
+{% endfor %}
