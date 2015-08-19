@@ -4,6 +4,7 @@ title: "Æggemuffins med skinke og tomat"
 date: 2015-06-05 -0100
 comments: true
 categories: ['Muffins', 'Ost', 'Skinke', 'Til Madpakken', 'Tomater', 'Æg']
+ingredienser: ['Ost', 'Skinke', 'Tomater', 'Æg']
 ---
 
 ### Ingredienser til 5 store eller 10 små muffins
