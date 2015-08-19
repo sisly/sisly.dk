@@ -20,3 +20,13 @@ Tag gryden af blusset og hæld mandlerne i. Lad dem stå og trække i 20 minutte
 Kom mandlerne på en bageplade og bag dem i en forvarmet ovn ved 185&deg; i ca. 15 minutter. Lad dem køle af inden servering.
 
 Opbevar dem i en luftæt bøtte.
+
+<div class="gallery gallery--images-demo js-flickity" data-flickity-options='{ "imagesLoaded": true, "percentPosition": false }'>
+  <!-- images from unsplash.com -->
+  <img src="http://i.imgur.com/bwy74ok.jpg" alt="orange tree">
+  <img src="http://i.imgur.com/bAZWoqx.jpg" alt="submerged">
+  <img src="http://i.imgur.com/PgmEBSB.jpg" alt="look-out">
+  <img src="http://i.imgur.com/aboaFoB.jpg" alt="freedom tower">
+  <img src="http://i.imgur.com/LkmcILl.jpg" alt="drizzle">
+  <img src="http://i.imgur.com/q9zO6tw.jpg" alt="cat nose">
+</div>
