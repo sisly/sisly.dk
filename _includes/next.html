@@ -3,7 +3,7 @@
     <a href="{{ page.next.url | prepend: site.baseurl }}" class="next-post-link"></a>
 
     {% if page.images %}
-    <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ page.next.images | first }}&container=focus&resize_w=200&refresh=31536000" class="next-post-thumb" />
+    <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ page.next.images | last }}&container=focus&resize_w=200&refresh=31536000" class="next-post-thumb" />
 	{% endif %}
 
     <div class="next-post-info">

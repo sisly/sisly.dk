@@ -21,7 +21,7 @@ home: true
             </a>
 
             {% if post.images %}
-            <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ post.images | first }}&container=focus&resize_w=680&refresh=31536000" class="post-list-thumb" />
+            <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ post.images | last }}&container=focus&resize_w=680&refresh=31536000" class="post-list-thumb" />
             {% endif %}
         </li>
         {% endfor %}
