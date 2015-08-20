@@ -9,7 +9,17 @@
         $.slidebars();
         var steps = [];
         var images = [
-            {% for image in page.backgrounds %}'{{ image }}',{% endfor %}
+            {% if page.images %}
+                {% for image in page.images %}'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_w=1200&refresh=31536000',{% endfor %}
+            {% else %}
+                {% for post in site.posts reverse %}
+                    {% if post.layout == 'post' %}
+                        {% if post.images %}
+                            {% for image in post.images %}'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_w=1200&refresh=31536000',{% endfor %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
         ];
         if (images.length > 0) {
             $('.loader').addClass('loading');

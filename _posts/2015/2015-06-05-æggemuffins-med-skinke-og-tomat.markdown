@@ -5,7 +5,8 @@ date: 2015-06-05 -0100
 comments: true
 categories: ['Muffins', 'Ost', 'Skinke', 'Til Madpakken', 'Tomater', 'Æg']
 ingredienser: ['Ost', 'Skinke', 'Tomater', 'Æg']
-thumb: 'https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220'
+images:
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
 ---
 
 ### Ingredienser til 5 store eller 10 små muffins
