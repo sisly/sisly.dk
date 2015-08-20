@@ -6,7 +6,7 @@ comments: true
 categories: ['Dessert', 'Fløde', 'Frugt & Bær', 'Hindbær', 'Kage', 'Ost']
 ingredienser: ['Fløde', 'Hindbær', 'Ost']
 images:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220
 ---
 
 ### Ingredienser
