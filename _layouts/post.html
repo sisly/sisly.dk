@@ -14,8 +14,8 @@ layout: default
     {% endif %}
 
     <header class="post-header">
-        {% if page.thumb %}
-        <img src="{{ page.thumb }}" alt="{{ page.title }}" class="post-thumb" />
+        {% if page.images %}
+        <img src="{{ page.images | first }}" alt="{{ page.title }}" class="post-thumb" />
         {% endif %}
 
         <h1 class="post-title">{{ page.title }}</h1>
