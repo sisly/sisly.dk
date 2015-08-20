@@ -10,7 +10,7 @@ var backstretchImages = [];
 {% for post in site.posts reverse %}
 {% if post.layout == 'post' %}
 	{% if post.headerImage %}
-		backstretchImages.push("{{ post.headerImage }}");
+		backstretchImages.push("https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ post.headerImage }}&container=focus&resize_w=1200&refresh=31536000");
 	{% endif %}
 {% endif %}
 {% endfor %}
