@@ -15,7 +15,7 @@ layout: default
 
     <header class="post-header">
         {% if page.images %}
-        <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ page.images | first }}&container=focus&resize_w=200&refresh=31536000" alt="{{ page.title }}" class="post-thumb" />
+        <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ page.images | last }}&container=focus&resize_w=200&refresh=31536000" alt="{{ page.title }}" class="post-thumb" />
         {% endif %}
 
         <h1 class="post-title">{{ page.title }}</h1>
