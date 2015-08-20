@@ -15,7 +15,7 @@ layout: default
 
     <header class="post-header">
         {% if page.images %}
-        <img src="{{ page.images | first }}" alt="{{ page.title }}" class="post-thumb" />
+        <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ page.images | first }}&container=focus&resize_w=200&refresh=31536000" alt="{{ page.title }}" class="post-thumb" />
         {% endif %}
 
         <h1 class="post-title">{{ page.title }}</h1>
@@ -23,6 +23,14 @@ layout: default
 
     <article class="post-content">
         {{ content }}
+
+        {% if page.images %}
+        <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true }'>
+            {% for image in post.images %}
+               <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_h=200&refresh=31536000">
+            {% endfor %}
+        </div>
+        {% endif %}
     </article>
 
     <footer class="post-meta">
