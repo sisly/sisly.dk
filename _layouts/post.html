@@ -1,32 +1,67 @@
 ---
 layout: default
-single: true
 ---
-<article class="post-content" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
+<div class="post">
+    {% if page.reading_time %}
+    <p class="post-reading-time">&#126;
+        {% capture words %}
+          {{ content | number_of_words | minus: 180 }}
+        {% endcapture %}
+        {% unless words contains "-" %}
+          {{ words | plus: 180 | divided_by: 180 | append: " min" }}
+        {% endunless %}
+    </p>
+    {% endif %}
 
-{% unless page.sharing == false %}
-	{% include post/sharing.html %}
-{% endunless %}
+    <header class="post-header">
+        {% if page.thumb %}
+        <img src="{{ page.thumb }}" alt="{{ page.title }}" class="post-thumb" />
+        {% endif %}
 
-<div id="page-navigation"> 
-        <div class="previous"> 
-        {% if page.previous.url %} 
-                <a href="{{page.previous.url}}" title="Previous Post: 
-{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
-        {% endif %} 
+        <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+
+    <article class="post-content">
+        {{ content }}
+    </article>
+
+    <footer class="post-meta">
+        {% if page.date %}
+        <div class="meta">
+            <h3 class="meta-title">Date</h3>
+            <span class="meta-content">{{ page.date | date: "%B %-d, %Y" }}</span>
         </div>
-
-        <div class="next"> 
-        {% if page.next.url %} 
-               <a href="{{page.next.url}}" title="next Post: 
-{{page.next.title}}">{{page.next.title}} &raquo; </a> 
-        {% endif %} 
+        {% endif %}
+        {% if page.author %}
+        <div class="meta">
+            <h3 class="meta-title">Author</h3>
+            <span class="meta-content">{{ page.author }}</span>
         </div>
-</div> 
+        {% endif %}
+        {% if page.show_categories %}
+        <div class="meta">
+            <h3 class="meta-title">Categories</h3>
+            <span class="meta-content">
+                {% for category in page.categories %}
+                    {{ category | capitalize }}&nbsp;
+                {% endfor %}
+            </span>
+        </div>
+        {% endif %}
+        {% if page.show_tags %}
+        <div class="meta">
+            <h3 class="meta-title">Tags</h3>
+            <span class="meta-content">
+                {% for tag in page.tags %}
+                    {{ tag | capitalize }}&nbsp;
+                {% endfor %}
+            </span>
+        </div>
+        {% endif %}
+    </footer>
 
-{% if site.disqus_short_name and page.comments == true %}
-<section id="comment">
-    <h1 class="title">Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
-</section>
-{% endif %}
+    {% include share.html %}
+
+    {% include disqus.html %}
+
+</div>
