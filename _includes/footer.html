@@ -10,3 +10,11 @@ $.backstretch([
     , "http://dl.dropbox.com/u/515046/www/cheers.jpg"
   ], {duration: 3000, fade: 750});
 </script>
+
+{% for post in site.posts reverse %}
+{% if post.layout == 'post' %}
+	{% if post.headerImage %}
+		<p>{{ post.headerImage }}</p>
+	{% endif %}
+{% endif %}
+{% endfor %}
