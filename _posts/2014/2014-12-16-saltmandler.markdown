@@ -4,7 +4,7 @@ title: "Saltmandler"
 date: 2014-12-16 -0100
 comments: true
 categories: ['Mandler', 'Snack']
-headerImage: 'https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220'
+thumb: 'https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220'
 ---
 ### Ingredienser
 -   150 g fint salt
