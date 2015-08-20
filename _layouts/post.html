@@ -26,7 +26,7 @@ layout: default
 
         {% if page.images %}
         <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true }'>
-            {% for image in post.images %}
+            {% for image in page.images %}
                <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_h=200&refresh=31536000">
             {% endfor %}
         </div>
