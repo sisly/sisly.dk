@@ -36,14 +36,17 @@ layout: default
     <footer class="post-meta">
         {% if page.date %}
         <div class="meta">
-            <h3 class="meta-title">Date</h3>
+            <h3 class="meta-title">Dato</h3>
             <span class="meta-content">{{ page.date | date: "%B %-d, %Y" }}</span>
         </div>
         {% endif %}
-        {% if page.author %}
+        {% if page.ingredienser %}
         <div class="meta">
-            <h3 class="meta-title">Author</h3>
-            <span class="meta-content">{{ page.author }}</span>
+            <h3 class="meta-title">Ingredienser</h3>
+            <span class="meta-content">
+                {% for ingrediens in page.ingredienser %}
+                    {{ ingrediens | capitalize }}&nbsp;
+                {% endfor %}
         </div>
         {% endif %}
         {% if page.show_categories %}
