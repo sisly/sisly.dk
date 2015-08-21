@@ -2,7 +2,6 @@
 layout: post
 title: "Banankage med chokoladestykker"
 date: 2014-07-27 -0100
-comments: true
 categories: ['Kage']
 ingredienser: ['Banan', 'Chokolade', 'Hasselnødder']
 images:

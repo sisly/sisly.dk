@@ -2,7 +2,6 @@
 layout: post
 title: "Saltmandler"
 date: 2014-12-16 -0100
-comments: true
 categories: ['Snack']
 ingredienser: ['Mandler']
 images:
