@@ -25,7 +25,7 @@ layout: default
         {{ content }}
 
         {% if page.images %}
-        <div style="background-color: #191919; text-align:center;"><a style="color:#4f4f4f;text-transform: uppercase;font-family: "Lato", sans-serif;font-size: 13px;font-weight: 700;letter-spacing: 2px;" href="javascript:alert('Store billeder');">Store billeder</a></div>
+        <div style="background-color: #191919;"><a style="color:#4f4f4f;text-transform: uppercase;font-family: "Lato", sans-serif;font-size: 13px;font-weight: 700;letter-spacing: 2px; text-align:center; display:block;" href="javascript:alert('Store billeder');">Store billeder</a></div>
         <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true }'>
             {% for image in page.images %}
                <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_h=200&refresh=31536000">
