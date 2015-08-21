@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spidskålssalat"
+title: "Spidskålssalat med æbler"
 date: 2014-03-08 -0100
 categories: ['Salat']
 ingredienser: ['Spidskål', 'Sukkerærter', 'Æbler', 'Solsikkekerner', 'Tranebær', 'Creme Fraiche']
