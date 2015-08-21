@@ -3,6 +3,7 @@ layout: post
 title: "Speltboller"
 date: 2014-05-29 -0100
 categories: ['Brød og boller']
+ingredienser: []
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167761
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167763
