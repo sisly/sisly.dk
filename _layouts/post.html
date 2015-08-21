@@ -25,12 +25,12 @@ layout: default
         {{ content }}
 
         {% if page.images %}
+        <div style="background-color: #191919;"><a style="color:#4f4f4f;text-transform: uppercase;" href="javascript:alert('Store billeder');">Store billeder</a></div>
         <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true }'>
             {% for image in page.images %}
                <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_h=200&refresh=31536000">
             {% endfor %}
         </div>  
-        <div style="margin-top:30px;"><a href="javascript:alert('Store billeder');">Store billeder</a></div>
         {% endif %}
     </article>
 
