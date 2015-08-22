@@ -12,12 +12,12 @@ var posts = [
             {
              "ingrediens": "{{ ingrediens }}",
              "title": "{{ post.title }}",
-             "link": "{{ site.baseurl }}{{ post.url }}""
+             "link": "{{ site.baseurl }}{{ post.url }}"
             },
         {% endfor %}
     {% endif %}
 {% endfor %}
-]
+];
 
 for (var i = 0; i < posts.length; i++) {
     document.write('<p>'+ posts[i].ingrediens +'</p>')
