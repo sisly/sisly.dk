@@ -4,10 +4,13 @@ title: Ingredienser
 permalink: /ingredienser/
 ---
 
+
+var posts = [
 {% for post in site.posts %}
     {% if post.ingredienser %}
         {% for ingrediens in post.ingredienser %}
-            <p>{{ ingrediens }} {{ post.title }} {{ site.baseurl }}{{ post.url }}</p>
+            { '{{ ingrediens }}', '{{ post.title }}', '{{ site.baseurl }}{{ post.url }}' }
         {% endfor %}
     {% endif %}
 {% endfor %}
+]
