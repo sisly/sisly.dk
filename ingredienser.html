@@ -19,7 +19,27 @@ var posts = [
 {% endfor %}
 ];
 
-for (var i = 0; i < posts.length; i++) {
-    document.write('<p>'+ posts[i].ingrediens +'</p>')
+var dict = {}
+$.each(posts, function(key, value){
+  //build dict
+  var exists = dict[value.ingrediens];
+  if(!exists){
+    dict[value.ingrediens] = [];
+  }
+   exists.push([value]);
+}); 
+
+var ingredienserSorted = [];
+
+for (var key in dict) {
+    if (dict.hasOwnProperty(key)) {
+        ingredienserSorted.push(key);
+    }
+}
+
+ingredienserSorted.sort();
+
+for (var i = 0; i < ingredienserSorted.length; i++) {
+    document.write('<p>'+ ingredienserSorted[i] +'</p>')
 };
 </script>
