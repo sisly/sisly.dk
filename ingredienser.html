@@ -7,7 +7,7 @@ permalink: /ingredienser/
 {% for post in site.posts %}
     {% if post.ingredienser %}
         {% for ingrediens in post.ingredienser %}
-            <p>{{ ingrediens }}</p>
+            <p>{{ ingrediens }} {{ post.title }} {{ site.baseurl }}{{ post.url }}</p>
         {% endfor %}
     {% endif %}
 {% endfor %}
