@@ -20,14 +20,13 @@ var posts = [
 ];
 
 var dict = {}
-$.each(posts, function(key, value){
+$.each(posts, function(index, value){
   //build dict
-  var exists = dict[value.ingrediens];
-  if(!exists){
+  var key = value.ingrediens
+  if(key in dict == false){
     dict[value.ingrediens] = [];
   }
-  alert(exists);
-   exists.push(value);
+  dict[value.ingrediens].push(value);
 }); 
 
 var ingredienserSorted = [];
