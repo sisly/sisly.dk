@@ -43,7 +43,10 @@ for (var i = 0; i < ingredienserSorted.length; i++) {
     document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
     var key = ingredienserSorted[i];
     if(key in dict == true){
-        document.write('<p>'+ dict[key].title + ' ' + dict[key].link +'</p>');
+        for (var x = 0; x < dict[key].length; x++) {
+            document.write('<p>'+ dict[key][x].title + ' ' + dict[key][x].link +'</p>');
+        };
+        
     }
 };
 </script>
