@@ -94,6 +94,7 @@ function draw(words) {
     .enter().append("text")
       //.style("font-size", function(d) { return d.size + "px"; })
       .style("font-family", "Impact")
+      .style("cursor", "hand")
       .style("fill", function(d, i) { return fill(i); })
       .attr("text-anchor", "middle")
       .attr("transform", function(d) {
