@@ -3,7 +3,7 @@ layout: default
 title: Ingredienser
 permalink: /ingredienser/
 ---
-
+<div class="home">
 <script>
 var posts = [
 {% for post in site.posts %}
@@ -12,7 +12,9 @@ var posts = [
             {
              "ingrediens": "{{ ingrediens }}",
              "title": "{{ post.title }}",
-             "link": "{{ site.baseurl }}{{ post.url }}"
+             "link": "{{ site.baseurl }}{{ post.url }}",
+             "date" : "{{ post.date | date: "%B %-d, %Y" }}",
+             "image" : "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ post.images | last }}&container=focus&resize_w=680&refresh=31536000"
             },
         {% endfor %}
     {% endif %}
@@ -41,12 +43,25 @@ ingredienserSorted.sort();
 
 for (var i = 0; i < ingredienserSorted.length; i++) {
     document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
+    document.write('<ul class="post-list">');
     var key = ingredienserSorted[i];
     if(key in dict == true){
         for (var x = 0; x < dict[key].length; x++) {
-            document.write('<p>'+ dict[key][x].title + ' ' + dict[key][x].link +'</p>');
+            document.write('<li>');
+            document.write('<a href="'+dict[key][x].link+'" class="post-list-link">');
+            document.write('<div class="post-list-info">');
+            document.write('<h2 class="post-list-title">'+dict[key][x].title+'</h2>');
+            document.write('<span class="post-list-meta">'+dict[key][x].date+'</span>');
+            document.write('</div>');
+            document.write('</a>');
+            if(dict[key][x].image){
+                document.write('<img src="'+dict[key][x].image+'" class="post-list-thumb" />');
+            }
+            document.write('</li>');
         };
         
     }
+    document.write('</ul>');
 };
 </script>
+</div>
