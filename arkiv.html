@@ -15,8 +15,15 @@ permalink: /arkiv/
         {% capture year %}{{ currentyear }}{% endcapture %}
     {% endif %}
     <li>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="post-archive-link">
-            {{ post.title }}
-        </a>
-    </li>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+                <div class="post-list-info">
+                    <h2 class="post-list-title">{{ post.title }}</h2>
+                    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </a>
+
+            {% if post.images %}
+            <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ post.images | last }}&container=focus&resize_w=680&refresh=31536000" class="post-list-thumb" />
+            {% endif %}
+        </li>
 {% endfor %}
