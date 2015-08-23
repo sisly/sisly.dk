@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ingredienser
 permalink: /ingredienser/
 ---
@@ -22,7 +22,7 @@ var posts = [
 var dict = {}
 $.each(posts, function(index, value){
   //build dict
-  var key = value.ingrediens
+  var key = value.ingrediens;
   if(key in dict == false){
     dict[value.ingrediens] = [];
   }
@@ -40,6 +40,10 @@ for (var key in dict) {
 ingredienserSorted.sort();
 
 for (var i = 0; i < ingredienserSorted.length; i++) {
-    document.write('<p>'+ ingredienserSorted[i] +'</p>')
+    document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
+    var key = ingredienserSorted[i];
+    if(key in dict == true){
+        document.write('<p>'+ dict[key].title + ' ' + dict[key].link +'</p>');
+    }
 };
 </script>
