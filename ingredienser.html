@@ -43,6 +43,7 @@ for (var key in dict) {
 ingredienserSorted.sort();
 
 for (var i = 0; i < ingredienserSorted.length; i++) {
+    document.write('<a id="'+ ingredienserSorted[i] +'"></a>');
     document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
     document.write('<ul class="post-list">');
     var key = ingredienserSorted[i];
