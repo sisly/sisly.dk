@@ -4,7 +4,6 @@ title: Arkiv
 permalink: /arkiv/
 ---
 <div class="home">
-    <ul class="post-list">
 {% for post in site.posts %}
     {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% if currentyear != year %}
@@ -12,7 +11,7 @@ permalink: /arkiv/
         </ul>
         {% endunless %}
         <h3 class="post-archive-year">{{ currentyear }}</h3>
-        <ul class="post-archive">
+        <ul class="post-list">
         {% capture year %}{{ currentyear }}{% endcapture %}
     {% endif %}
     <li>
@@ -28,5 +27,4 @@ permalink: /arkiv/
             {% endif %}
         </li>
 {% endfor %}
-    </ul>
 </div>
