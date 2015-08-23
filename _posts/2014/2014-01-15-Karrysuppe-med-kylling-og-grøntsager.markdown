@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karrysuppe-med-kylling-og-grøntsager"
-date: 2014-02-19 -0100
+date: 2014-01-15 -0100
 categories: ['suppe', 'Til fryseren', 'Fjerkræ']
 ingredienser: ['Cremefine', 'Hvidløg', 'Karry', 'Gulerødder', 'Kartofler', 'Kylling', 'Porre', 'Peberfrugt', 'Løg']
 images:
