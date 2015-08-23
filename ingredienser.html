@@ -75,7 +75,7 @@ var fill = d3.scale.category20();
 var layout = d3.layout.cloud()
     .size([560, 560])
     .words(ingredienserSorted.map(function(d) {
-      return {text: d, size: 10 + (dict[key].length/posts.length) * 90, test: "haha"};
+      return {text: d, size: 14 + (dict[key].length/posts.length) * 90, test: "haha"};
     }))
     .padding(5)
     .rotate(function() { return ~~(Math.random() * 2) * 90; })
@@ -92,7 +92,7 @@ function draw(words) {
     .selectAll("text")
       .data(words)
     .enter().append("text")
-      .style("font-size", function(d) { return d.size + "px"; })
+      //.style("font-size", function(d) { return d.size + "px"; })
       .style("font-family", "Impact")
       .style("fill", function(d, i) { return fill(i); })
       .attr("text-anchor", "middle")
