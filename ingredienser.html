@@ -4,9 +4,7 @@ title: Ingredienser
 permalink: /ingredienser/
 ---
 <div class="home">
-
-<script></script>
-http://d3js.org/d3.v3.min.js
+<div id="ingrediensCloudContainer"></div>
 <script>
 var posts = [
 {% for post in site.posts %}
@@ -87,7 +85,7 @@ var layout = d3.layout.cloud()
     .on("end", draw);
 layout.start();
 function draw(words) {
-  d3.select("body").append("svg")
+  d3.select("#ingrediensCloudContainer").append("svg")
       .attr("width", layout.size()[0])
       .attr("height", layout.size()[1])
     .append("g")
