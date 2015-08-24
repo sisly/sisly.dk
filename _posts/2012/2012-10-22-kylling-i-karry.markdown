@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kylling i karryr"
+title: "Kylling i karry"
 date: 2012-10-22
 categories: ['Fjerkræ',]
 ingredienser: ['Kylling', 'Gulerødder', 'Porre', 'Peberfrugt', 'Karry', 'Peanuts']
