@@ -29,4 +29,4 @@ Læg bagepapir på en bageplade og hæld dejen ud herpå. ”Smør” dejen ud s
 
 Pisk fløden stiv og vend forsigtigt de hele hindbær i.
 
-Drys et stykke bagepapir, med det du lyster: Sukker, mandler eller andet, så den ikke hænger i, når den skal rulles. Det vil samtidig fungerer som pynt på rouladen. Læg den lune, bagte bund over og træk herefter bagepapiret af bagsiden. Lad den køle lidt af inden fyldet smøres på, og rouladen rulles sammen. Den skal helst rulles mens den er lidt lun, ellers kan dejen risikere at flække. Rul sammen på den lange led.
+Drys et stykke bagepapir, med det du lyster: Sukker, mandler eller andet, så den ikke hænger i, når den skal rulles. Det vil samtidig fungerer som pynt på rouladen. Skær enderne pæne på de korte leder. Læg den lune, bagte bund over og træk herefter bagepapiret af bagsiden. Lad den køle lidt af inden fyldet smøres på, og rouladen rulles sammen. Den skal helst rulles mens den er lidt lun, ellers kan dejen risikere at flække. Rul sammen på den lange led.
