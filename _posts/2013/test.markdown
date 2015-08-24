@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Roulade med friske hindbær"
-date: 2015-08-22
+date: 12.12.2009
 categories: ['Kage', 'Frugt & Bær']
 ingredienser: ['Hindbær', 'Fløde']
 images:
