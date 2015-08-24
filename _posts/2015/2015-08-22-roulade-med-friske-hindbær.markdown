@@ -13,12 +13,15 @@ images:
 ---
 
 ### Ingredienser
+#### Dej
 -   3 æg
 -   2 dl sukker
 -   1½ tsk. vaniljesukker
 -   2 dl mel
 -   1½ tsk. bagepulver
 -   2 spsk. kogende vand
+  
+#### Fyld
 -   4 dl fløde
 -   250-300 g friske hindbær
 
