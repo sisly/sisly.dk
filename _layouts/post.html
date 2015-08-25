@@ -82,7 +82,9 @@ var openPhotoSwipe = function() {
     var items = [
     {% for image in page.images %}
         {
-            src: 'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_w=2048&refresh=31536000'
+            src: 'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_w=2048&refresh=31536000',
+            w: 2048,
+            h: 1365
         },
     {% endfor %}
     ];
