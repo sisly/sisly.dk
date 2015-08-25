@@ -80,7 +80,7 @@ var openPhotoSwipe = function() {
 
     // build items array
     var items = [
-    {% for iamge in page.images %}
+    {% for image in page.images %}
         {
             src: 'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_w=2048&refresh=31536000'
         },
