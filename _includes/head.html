@@ -50,4 +50,19 @@ body { font-family: sans-serif; }
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
     <script type="text/javascript" src="{{ "/assets/js/libs/jquery.min.js" | prepend: site.baseurl }}"></script>
+
+    <!-- Core CSS file -->
+    <link rel="stylesheet" href="{{ "/assets/js/libs/photoswipe/photoswipe.css" | prepend: site.baseurl }}"> 
+
+    <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+         In the folder of skin CSS file there are also:
+         - .png and .svg icons sprite, 
+         - preloader.gif (for browsers that do not support CSS animations) -->
+    <link rel="stylesheet" href="{{ "/assets/js/libs/photoswipe/default-skin/default-skin.css" | prepend: site.baseurl }}"> 
+
+    <!-- Core JS file -->
+    <script src="{{ "/assets/js/libs/photoswipe/photoswipe.min.js" | prepend: site.baseurl }}"></script> 
+
+    <!-- UI JS file -->
+    <script src="{{ "/assets/js/libs/photoswipe/photoswipe-ui-default.min.js" | prepend: site.baseurl }}"></script> 
 </head>
