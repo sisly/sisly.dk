@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lynboller (fødselsdagsboller)"
+title: "Lynboller"
 date: 2012-03-11
 categories: ['Boller', 'Brød & Boller', 'Fødselsdag', 'Til fryseren']
 ingredienser: []
