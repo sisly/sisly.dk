@@ -21,6 +21,10 @@
                 {% endfor %}
             {% endif %}
         ];
+
+        images.sort(function() { return 0.5 - Math.random() });
+        images = images.slice(0, 5);
+
         if (images.length > 0) {
             $('.loader').addClass('loading');
             steps = scrollSteps(images.length);
