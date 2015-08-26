@@ -15,7 +15,7 @@
                 {% for post in site.posts reverse %}
                     {% if post.layout == 'post' %}
                         {% if post.images %}
-                            {% for image in post.images %}'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image }}&container=focus&resize_w=1200&refresh=31536000',{% endfor %}
+                            'https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ post.images | last }}&container=focus&resize_w=1200&refresh=31536000',
                         {% endif %}
                     {% endif %}
                 {% endfor %}
@@ -49,11 +49,6 @@
         $(document).on("backstretch.after", function (e, instance, index) {
             $('.loader').removeClass('loading');
         });
-    });
-
-$(window).load(function() {
-    flkty.resize();
-});
-    
+    });   
 </script>
 
