@@ -3,7 +3,7 @@ layout: post
 title: "Lynboller (fødselsdagsboller)"
 date: 2012-03-11
 categories: ['Boller' 'Brød & Boller', 'Fødselsdag', 'Til fryseren*]
-ingredienser: ['Kylling', 'Gulerødder', 'Porre', 'Peberfrugt', 'Karry', 'Peanuts']
+ingredienser: []
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126907
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126912
