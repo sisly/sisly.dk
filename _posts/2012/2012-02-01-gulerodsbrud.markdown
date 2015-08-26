@@ -28,6 +28,6 @@ Rør dejen let, så en del af luften røres ud. Tilsæt så æg, revne gulerødd
 
 Dejen bliver temmelig klistret, og kan ikke formes til fine runde boller :-). Sæt dejen på bageplader med 2 skeer, eller tag en passende klump med fingrene.
 
-Bages ved 225&dgr; i 12-15 minutter.
+Bages ved 225&deg; i 12-15 minutter.
 
 Brudene er fryseegnede.
