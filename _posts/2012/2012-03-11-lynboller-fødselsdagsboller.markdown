@@ -33,6 +33,6 @@ Lad dejen hæve i ca. 20 minutter.
 
 Form bollerne og sæt dem på en bageplade. Lade dem efterhæve 10 minutter. Pensl bollerne med sammenpisket æg. 
 
-Bag bollerne i 12-15 minutter ved 225dgs;.
+Bag bollerne i 12-15 minutter ved 225&dgs;.
 
 Bollerne er fryseegnede
