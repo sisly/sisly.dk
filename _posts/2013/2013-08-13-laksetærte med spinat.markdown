@@ -2,7 +2,7 @@
 layout: post
 title: "Laksetærte med spinat"
 date: 2013-08-13 -0100
-categories: ['Tærte', 'Fisk & Skalddyr']
+categories: ['Tærte', 'Fisk & Skalddyr', 'Ost']
 ingredienser: ['Laks', 'Spinat', 'Hytteost', 'Lime']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126020
