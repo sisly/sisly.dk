@@ -17,8 +17,14 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126348
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126331
 ---
-### Ingredienser til 18 store brud
-1 portion grov tærtedej
+### Ingredienser til tærtefad på 32 cm
+####Grov tærtedej
+-  2oo g hvedemel
+-  100 g grahamsmel
+-  1 tsk. groft salt
+-  150 g koldt smør
+-  2 æggeblomme
+-  4 spsk. koldt vand
 
 ####Fyld
 -  15 små kogte kartofler
@@ -32,7 +38,9 @@ images:
 -  Peber
 
 ### Fremgangsmåde
-Rul tærtedejen ud og beklæd formen. Bag den ved 200&deg; i 10 minutter. 
+Kom mel og salt i en skål. Skær smørret i mindre stykker og kom det i melblandingen, tilsæt de øvrige ingredienser. Brug hænderne så lidt som muligt, når dejen skal samles, så den ikke bliver varm. Tryk dejkuglen lidt flad, læg den i en plasticpose i køleskabet i mindst ½ time.
+
+Rul tærtedejen ud i ca. ½ cm tykkelse. Beklæd tærteformen. Prik bunden med en gaffel og bag den i en forvarmet ovn ved 200&deg; i 10 minutter. 
 
 Skær kartoflerne i halve eller kvarte, hamburgerryggen i små tern og forårsløg i ringe. Fordel det hele over den forbagte bund. Rør æggemassen sammen og hæld den over.
 
