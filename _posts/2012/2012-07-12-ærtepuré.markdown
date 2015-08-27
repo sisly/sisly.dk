@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Ærtepuré"
+date: 2012-07-12
+categories: ['Tilbehør']
+ingredienser: ['Ærter', 'Citron', 'Hvidlæg']
+images:
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126390
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126394
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126400
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126403
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126413
+---
+
+### Ingredienser
+-   3 dl. ærter
+-   2 tsk. citronsaft 
+-   2 spsk. oliven olie 
+-   1 fed hvidløg 
+-   Salt
+-   Peber
+
+### Fremgangsmåde
+Er det frosne ærter, overhældes de med kogende vand. Hæld dem i en blender, og tilsæt de øvrige ingredienser.
+Smag til med salt og peber.
