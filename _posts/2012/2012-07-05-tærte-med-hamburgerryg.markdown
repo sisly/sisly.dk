@@ -2,31 +2,38 @@
 layout: post
 title: "Tærte med hamburgerryg"
 date: 2012-07-05
-categories: ['Boller', 'Brød & Boller', 'Til fryseren', 'Til madpakken']
-ingredienser: ['Gulerødder', 'Solsikkekerner']
+categories: ['Tærte', 'Svinekød']
+ingredienser: ['Hamburgerrug', 'Kartofler', 'Forårsløg', 'Ost']
 images:
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125812
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125813
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125816
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126315
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126313
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126318
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126319
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126321
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126326
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126327
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126329
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126332
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126348
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126331
 ---
 ### Ingredienser til 18 store brud
--   100 g gær
--   5 dl lunkent vand
--   1 dl smagsneutral olie
--   4 tsk. salt
--   4 spsk. sukker
--   1 kg mel
--   2 store æg
--   200 g revne gulerødder
--   100 g solsikkekerner
+1 portion grov tærtedej
+
+####Fyld
+-  15 små kogte kartofler
+-  Hamburgerryg
+-  2 forårsløg
+
+####Æggemasse
+-  10 æg
+-  100 g revet ost
+-  Salt
+-  Peber
 
 ### Fremgangsmåde
-Gæren røres ud i det lunkne vand. Tilsæt herefter olie, salt, sukker og mel. Rør det hele godt sammen. Lad dejen hæve tildækket i 30 minutter.
+Rul tærtedejen ud og beklæd formen. Bag den ved 200&deg; i 10 minutter. 
 
-Rør dejen let, så en del af luften røres ud. Tilsæt så æg, revne gulerødder og solsikkekerner. Rør godt, til det hele er blandet godt sammen.
+Skær kartoflerne i halve eller kvarte, hamburgerryggen i små tern og forårsløg i ringe. Fordel det hele over den forbagte bund. Rør æggemassen sammen og hæld den over.
 
-Dejen bliver temmelig klistret, og kan ikke formes til fine runde boller :-). Sæt dejen på bageplader med 2 skeer, eller tag en passende klump med fingrene.
-
-Bages ved 225&deg; i 12-15 minutter.
-
-Brudene er fryseegnede.
+Bag tærten i ca. 20 minutter ved 200&deg;, til æggemassen er stivnet, og blevet lidt lysebrun.
