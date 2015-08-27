@@ -2,7 +2,7 @@
 layout: post
 title: "Cheesecake med hindbær og lime"
 date: 2015-05-21 -0100
-categories: ['Dessert', 'Frugt & Bær', 'Kage']
+categories: ['Dessert', 'Frugt & Bær', 'Kage', 'Ost']
 ingredienser: ['Fløde', 'Hindbær', 'Ost', 'Lime']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!164102
