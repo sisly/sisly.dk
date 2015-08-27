@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Varm juledrik"
-date: 12-12-11
+date: 2012-12-11
 categories: ['Jul']
 ingredienser: ['Æblejuice', 'Stjerneanis', 'Kanel']
 images:
