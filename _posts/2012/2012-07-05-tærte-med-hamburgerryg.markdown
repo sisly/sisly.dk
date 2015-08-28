@@ -3,7 +3,7 @@ layout: post
 title: "Tærte med hamburgerryg"
 date: 2012-07-05
 categories: ['Tærte', 'Svinekød']
-ingredienser: ['Hamburgerrug', 'Kartofler', 'Forårsløg', 'Ost']
+ingredienser: ['Hamburgerrug', 'Kartofler', 'Forårsløg', 'Revet ost']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126315
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126313
