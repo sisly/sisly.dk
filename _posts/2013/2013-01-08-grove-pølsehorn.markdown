@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grove pølsehorn"
-date: 2012-01-08
+date: 2013-01-08
 categories: ['Brød & boller', 'Brød', 'Til madpakken', 'Til fryseren']
 ingredienser: ['Pølser', 'Ketchup']
 images:
@@ -33,7 +33,7 @@ Lun mælken og rør gæren ud heri. Tilsæt margarine, æg, sukker og salt og r�
 
 Del dejen i 3 lige store stykker dele og form dem til kugler. Lad dem hvile et par minutter.
 
-Rul hver kugle til en cirkel, smør ketchup på og skær dem i 8 dele. Læg pølen på (½ pølse/1 brunchpølse, 1 kyllingepølse eller andre pølser) på den brede ende og rul sammen til et horn. Læg dem på bagepladen med spidsen nedad, så hornet ikke åbner sig under bagning. 
+Rul hver kugle til en cirkel, smør ketchup på og skær dem i 8 dele. Læg pølen på (½ pølse, 1 brunchpølse, 1 kyllingepølse eller andre pølser) på den brede ende og rul sammen til et horn. Læg dem på bagepladen med spidsen nedad, så hornet ikke åbner sig under bagning. 
 
 Lad dem efterhæve 20 minutter.
 
