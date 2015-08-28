@@ -34,4 +34,4 @@ Rul dejen ud til 2 rektangler ca. 10x40 cm. Bag dem i den forvarmet ovn på 200&
 
 Smør den ene rektangel med hindbærmarmelade og læg den anden på som låg. 
 
-Rør vand og flormelis sammen til glasur. Hvis den er for tynd vil den løbe ud over kanterne. Mens glasuren er våd kan snitterne pyntes med krymmel eller frysetørrede hindbær eller noget helt 3.
+Rør vand og flormelis sammen til glasur. Hvis den er for tynd vil den løbe ud over kanterne. Mens glasuren er våd kan snitterne pyntes med for eksempel krymmel frysetørrede hindbær.
