@@ -11,8 +11,8 @@ images:
 ---
 ### Ingredienser til 10 boller
 -   2½ dl lunkent vand 
--   75 g afkølet smeltet smør + lidt til pensling 
--   50 g gær 
+-   75g afkølet smeltet smør + lidt til pensling 
+-   50g gær 
 -   1 spsk sukker 
 -   1½ teske salt 
 -   1 æg 
