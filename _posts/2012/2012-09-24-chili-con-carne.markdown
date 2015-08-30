@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chili-con-carne"
+title: "Chili con carne"
 date: 2012-09-24
 categories: ['Oksekød', Til fryseren]
 ingredienser: ['Hakket okse', 'Chili', 'Hvidløg', 'Peberfrugt', 'Hakkede tomater', 'Bønner']
