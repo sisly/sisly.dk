@@ -10,15 +10,15 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125816
 ---
 ### Ingredienser til 18 store brud
--   100 g gær
+-   100g gær
 -   5 dl lunkent vand
 -   1 dl smagsneutral olie
 -   4 tsk. salt
 -   4 spsk. sukker
 -   1 kg mel
 -   2 store æg
--   200 g revne gulerødder
--   100 g solsikkekerner
+-   200g revne gulerødder
+-   100g solsikkekerner
 
 ### Fremgangsmåde
 Gæren røres ud i det lunkne vand. Tilsæt herefter olie, salt, sukker og mel. Rør det hele godt sammen. Lad dejen hæve tildækket i 30 minutter.
