@@ -19,7 +19,7 @@ images:
 -   2 spsk. Hvidvinseddike
 -   2 tsk. Honning
 -   ½ dl olivenolie
--   100 g mandler
+-   100g mandler
 -   Fint salt
 
 ### Fremgangsmåde
