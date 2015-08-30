@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Ingredienser
-permalink: /ingredienser/
+title: Kategorier
+permalink: /kategorier/
 ---
 <div class="home">
 <script>
 var posts = [
 {% for post in site.posts %}
-    {% if post.ingredienser %}
-        {% for ingrediens in post.ingredienser %}
+    {% if post.categories %}
+        {% for category in post.categories %}
             {
-             "ingrediens": "{{ ingrediens }}",
+             "category": "{{ category }}",
              "title": "{{ post.title }}",
              "link": "{{ site.baseurl }}{{ post.url }}",
              "date" : "{{ post.date | date: "%B %-d, %Y" }}",
@@ -24,27 +24,27 @@ var posts = [
 var dict = {}
 $.each(posts, function(index, value){
   //build dict
-  var key = value.ingrediens;
+  var key = value.category;
   if(key in dict == false){
-    dict[value.ingrediens] = [];
+    dict[value.category] = [];
   }
-  dict[value.ingrediens].push(value);
+  dict[value.category].push(value);
 }); 
 
-var ingredienserSorted = [];
+var categoriesSorted = [];
 
 for (var key in dict) {
     if (dict.hasOwnProperty(key)) {
-        ingredienserSorted.push(key);
+        categoriesSorted.push(key);
     }
 }
 
-ingredienserSorted.sort();
+categoriesSorted.sort();
 
-for (var i = 0; i < ingredienserSorted.length; i++) {
-    document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
+for (var i = 0; i < categoriesSorted.length; i++) {
+    document.write('<h3>'+ categoriesSorted[i] +'</h3>');
     document.write('<ul class="post-list">');
-    var key = ingredienserSorted[i];
+    var key = categoriesSorted[i];
     if(key in dict == true){
         dict[key].sort();
         for (var x = 0; x < dict[key].length; x++) {
