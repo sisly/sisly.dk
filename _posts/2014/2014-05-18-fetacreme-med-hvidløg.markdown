@@ -2,7 +2,7 @@
 layout: post
 title: "Fetacreme med hvidløg"
 date: 2014-05-18 -0100
-categories: ['Tilbehør']
+categories: ['Tilbehør', 'Ost']
 ingredienser: ['Feta', 'Hvidløg', 'Creme Fraiche']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167768

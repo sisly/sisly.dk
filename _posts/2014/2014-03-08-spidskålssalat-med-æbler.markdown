@@ -2,7 +2,7 @@
 layout: post
 title: "Spidskålssalat med æbler"
 date: 2014-03-08 -0100
-categories: ['Salat']
+categories: ['Salat', 'Tilbehør']
 ingredienser: ['Spidskål', 'Sukkerærter', 'Æbler', 'Solsikkekerner', 'Tranebær', 'Creme Fraiche']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167783
@@ -25,7 +25,7 @@ images:
 -   Peber
 
 ### Fremgangsmåde
-Tag bladene af ét ad gangen. Læg dem ovenpå hinanden og skær igennem på den lange led. Skær i tynde strimler på den korte led og kom strimlerne i en skål. Skær sukkerærter i mindre stykker og det samme med æblerne. Tilsæt solrikkekerner og tranebær
+Skær spidskålshovedet igennem på den lange led. Skær i tynde strimler på den korte led og kom strimlerne i en skål. Skær sukkerærter i mindre stykker og det samme med æblerne. Tilsæt solrikkekerner og tranebær
 
 Bland ingredienserne til dressingen sammen og hæld den over salaten. Vend den godt rundt.
 

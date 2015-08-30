@@ -13,10 +13,10 @@ images:
 -   2 tsk vanillesukker
 -   2 dl hvedemel
 -   1 tsk bagepulver
--   100 g smør
+-   100g smør
 -   2 bananer
--   100 g chokolade
--   50 g hasselnødder
+-   100g chokolade
+-   50g hasselnødder
 
 ### Fremgangsmåde
 Tænd ovnen på 175&deg;.

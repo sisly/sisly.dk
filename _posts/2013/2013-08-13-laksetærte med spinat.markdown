@@ -2,8 +2,8 @@
 layout: post
 title: "Laksetærte med spinat"
 date: 2013-08-13 -0100
-categories: ['Tærte', 'Fisk & Skalddyr']
-ingredienser: ['Laks', 'Spinat', 'Ost', 'Lime']
+categories: ['Tærte', 'Fisk & Skalddyr', 'Ost']
+ingredienser: ['Laks', 'Spinat', 'Hytteost', 'Lime']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126020
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126025
@@ -16,10 +16,10 @@ images:
 ### Ingredienser til tærtefad på 32 cm
 
 #### Dej
--   150 g margarine
--   150 g hytteost
--   100 g grahamsmel
--   200 g hvedemel
+-   150g margarine
+-   150g hytteost
+-   100g grahamsmel
+-   200g hvedemel
 
 #### Æggemasse
 -   4 æg
@@ -31,8 +31,8 @@ images:
 
 
 #### Fyld
--   1200 g helbladet spinat, frost
--   600 g laksefilet uden ben
+-   1200g helbladet spinat, frost
+-   600g laksefilet uden ben
 -   Citronsaft af ½ citron
 
 

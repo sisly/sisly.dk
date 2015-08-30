@@ -12,12 +12,12 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!163879
 ---
 
-### Ingredienser til 16-20 stk.
--   200 g frisk spinat
--   200 g små tomater (cherry, blomme eller andre små)
+### Ingredienser
+-   250g frisk spinat
+-   200g små tomater (cherry, blomme eller andre små)
 -   10-12 hele grønne asparges
 -   2 modne avocadoer
--   100 g friskrevet parmesan
+-   100g friskrevet parmesan
 -   Saften af 1 citron
 
 ### Fremgangsmåde
