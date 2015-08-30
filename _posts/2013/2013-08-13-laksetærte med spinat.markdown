@@ -16,10 +16,10 @@ images:
 ### Ingredienser til tærtefad på 32 cm
 
 #### Dej
--   150 g margarine
--   150 g hytteost
--   100 g grahamsmel
--   200 g hvedemel
+-   150g margarine
+-   150g hytteost
+-   100g grahamsmel
+-   200g hvedemel
 
 #### Æggemasse
 -   4 æg
@@ -31,8 +31,8 @@ images:
 
 
 #### Fyld
--   1200 g helbladet spinat, frost
--   600 g laksefilet uden ben
+-   1200g helbladet spinat, frost
+-   600g laksefilet uden ben
 -   Citronsaft af ½ citron
 
 
