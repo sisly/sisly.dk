@@ -22,7 +22,7 @@ images:
 
 #### Fyld
 -   3 dl fløde
--   250 g friske jordbær
+-   250g friske jordbær
 
 ### Fremgangsmåde
 Sukker, æg og vaniljesukker piskes hvidt og luftigt. Mel og bagepulver blandes og vendes i æggeblanding sammen med de 2 spsk. kogende vand.
