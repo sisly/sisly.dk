@@ -9,10 +9,10 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126821
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126820
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126823
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!1266825
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126825
 ---
 
-### Ingredienser til kæmpe balje – så er der også til fryseren
+### Ingredienser til en kæmpe balje
 -   3 kg hakket okse
 -   3 x 140 g tomatpuré
 -   4 ds. hakkede tomater
