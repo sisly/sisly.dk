@@ -42,7 +42,7 @@ for (var key in dict) {
 categoriesSorted.sort();
 
 for (var i = 0; i < categoriesSorted.length; i++) {
-    document.write('<h3>'+ categoriesSorted[i] +'</h3>');
+    document.write('<h3 style="text-transform: uppercase;">'+ categoriesSorted[i] +'</h3>');
     document.write('<ul class="post-list">');
     var key = categoriesSorted[i];
     if(key in dict == true){
