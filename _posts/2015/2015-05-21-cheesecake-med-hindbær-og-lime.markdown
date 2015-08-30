@@ -17,21 +17,21 @@ images:
 ### Ingredienser
 
 #### Hindbærpuré
--   350 g frosne hindbær
+-   350g frosne hindbær
 -   1 spsk. limesaft
--   50 g flormelis
+-   50g flormelis
 
 #### Kiksebund
--   75 g smør
--   150 g digestive-kiks
+-   75g smør
+-   150g digestive-kiks
 
 #### Flødeostecreme
 -   5 blade husblas
 -   2 lime
--   300 g flødeost naturel
--   150 g sukker
+-   300g flødeost naturel
+-   150g sukker
 -   1½ dl piskefløde
--   200 g cremefraiche 
+-   200g cremefraiche 
 -   2 pasteuriserede æggehvider
 
 #### Pynt
