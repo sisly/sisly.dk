@@ -27,7 +27,7 @@ images:
 -  Peber
 
 ####Fyld
--  500 g kyllingefilet
+-  500g kyllingefilet
 -  3-4 gulerødder
 -  1 porre
 -  1 rød peberfrugt
