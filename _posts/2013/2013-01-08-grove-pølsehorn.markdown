@@ -16,13 +16,13 @@ images:
 ### Ingredienser til 24 pølsehorn
 ####Dej
 -   2½ dl mælk 
--   50 g gær 
--   75 g margarine 
+-   50g gær 
+-   75g margarine 
 -   1 æg 
 -   1 spsk. sukker 
 -   1 tsk. salt 
--   100 g rugmel 
--   400 g hvedemel
+-   100g rugmel 
+-   400g hvedemel
 
 -   Pølser 
 -   Ketchup
