@@ -40,9 +40,9 @@ for (var key in dict) {
 }
 
 ingredienserSorted.sort();
-document.write('<div>');
+document.write('<div style="text-align: center;">');
 for (var i = 0; i < ingredienserSorted.length; i++) {
-    document.write('<a style="float:left;padding-right:10px;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+ingredienserSorted[i].length+')</a>');
+    document.write('<a style="float:left;padding-right:10px;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+dict[ingredienserSorted[i]].length+')</a>');
 };
 document.write('<div style="clear:both;"></div>');
 document.write('</div>');
