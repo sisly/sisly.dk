@@ -42,9 +42,11 @@ for (var key in dict) {
 ingredienserSorted.sort();
 document.write('<div>');
 for (var i = 0; i < ingredienserSorted.length; i++) {
-    document.write('<a href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+ingredienserSorted[i].length+')</a>');
+    document.write('<a style="float:left;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'('+ingredienserSorted[i].length+')</a>');
 };
+document.write('<div style="clear:both;"></div>');
 document.write('</div>');
+
 
 for (var i = 0; i < ingredienserSorted.length; i++) {
     document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
