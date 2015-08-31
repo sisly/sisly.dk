@@ -50,7 +50,7 @@ document.write('</div>');
 
 for (var i = 0; i < ingredienserSorted.length; i++) {
     document.write('<h3>'+ ingredienserSorted[i] +'</h3>');
-    document.write('<a id="'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'</a>');
+    document.write('<a id="'+ ingredienserSorted[i] +'"></a>');
     document.write('<ul class="post-list">');
     var key = ingredienserSorted[i];
     if(key in dict == true){
