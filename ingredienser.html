@@ -55,14 +55,13 @@ for (var i = 0; i < ingredienserSorted.length; i++) {
 };
 var multiplier = (maxPercent-minPercent)/(max-min); 
 
-document.write('<div style="text-align: center;">');
+document.write('<ul style="margin: 0; padding: 0; list-style-type: none; text-align: center;">');
 for (var i = 0; i < ingredienserSorted.length; i++) {
   var count = dict[ingredienserSorted[i]].length;
   var size = minPercent + ((max-(max-(count-min)))*multiplier); 
-    document.write('<a style="padding-right:10px; font-size:'+size+'%;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+count+')</a>');
+    document.write('<li>  <a style="display: inline; padding-right:10px; font-size:'+size+'%;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+count+')</a></li>');
 };
-document.write('<div style="clear:both;"></div>');
-document.write('</div>');
+document.write('</ul>');
 
 
 for (var i = 0; i < ingredienserSorted.length; i++) {
