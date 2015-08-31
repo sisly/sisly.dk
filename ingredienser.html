@@ -40,9 +40,26 @@ for (var key in dict) {
 }
 
 ingredienserSorted.sort();
+
+var max = 0;
+var min = 1;
+var maxPercent = 150;
+var minPercent = 100;
+for (var i = 0; i < ingredienserSorted.length; i++) {
+  if(dict[ingredienserSorted[i]].length > max){
+    max = dict[ingredienserSorted[i]].length;
+  }
+  if(dict[ingredienserSorted[i]].length < min){
+    min = dict[ingredienserSorted[i]].length;
+  }
+};
+var multiplier = (maxPercent-minPercent)/(max-min); 
+
 document.write('<div style="text-align: center;">');
 for (var i = 0; i < ingredienserSorted.length; i++) {
-    document.write('<a style="float:left;padding-right:10px;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+dict[ingredienserSorted[i]].length+')</a>');
+  var count = dict[ingredienserSorted[i]].length;
+  var size = minPercent + ((max-(max-(count-min)))*multiplier); 
+    document.write('<a style="float:left;padding-right:10px; font-size:'+size+'px" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+count+')</a>');
 };
 document.write('<div style="clear:both;"></div>');
 document.write('</div>');
