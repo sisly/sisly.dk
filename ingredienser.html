@@ -59,7 +59,7 @@ document.write('<div style="text-align: center;">');
 for (var i = 0; i < ingredienserSorted.length; i++) {
   var count = dict[ingredienserSorted[i]].length;
   var size = minPercent + ((max-(max-(count-min)))*multiplier); 
-    document.write('<a style="float:left;padding-right:10px; font-size:'+size+'%;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+count+')</a>');
+    document.write('<a style="padding-right:10px; font-size:'+size+'%;" href="#'+ ingredienserSorted[i] +'">'+ ingredienserSorted[i] +'&nbsp;('+count+')</a>');
 };
 document.write('<div style="clear:both;"></div>');
 document.write('</div>');
