@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chokoladekage-uden-mælk"
+title: "Chokoladekage uden mælk"
 date: 2012-02-18
 categories: ['Kage']
 ingredienser: ['Kakao']
