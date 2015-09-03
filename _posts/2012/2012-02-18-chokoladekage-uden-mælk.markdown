@@ -23,6 +23,6 @@ images:
 Rør alle de tørre ingredienser godt sammen i en skål. Tilsæt appelsinjuicen og rør igen godt. Rør æggene i og til sidst den smeltede margarine.
 Hæld dejen i en smurt bradebande.
 
-Kagen bages ved 175%deg; i ca. 35 minutter.
+Kagen bages ved 175&deg; i ca. 35 minutter.
 
 Brudene er fryseegnede.
