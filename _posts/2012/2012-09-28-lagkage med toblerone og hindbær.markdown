@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lagkage med tobleronecreme og hindbærskum"
+title: "Lagkage med toblerone og hindbær"
 date: 2012-09-28 -0100
 categories: ['Lagkage', 'Fødselsdag', 'Frugt & bær', 'Kage']
 ingredienser: ['Toblerone', 'Hindbær', 'Fløde']
