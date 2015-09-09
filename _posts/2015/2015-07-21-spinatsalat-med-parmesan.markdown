@@ -13,13 +13,14 @@ images:
 ---
 
 ### Ingredienser
--   250g frisk spinat
--   200g små tomater (cherry, blomme eller andre små)
+-   250 g frisk spinat
+-   200 g små tomater (cherry, blomme eller andre små)
 -   10-12 hele grønne asparges
 -   2 modne avocadoer
--   100g friskrevet parmesan
+-   100 g friskrevet parmesan
 -   Saften af 1 citron
 
 ### Fremgangsmåde
-Vask spinaten og nip stilen af. Vask tomaterne og skær dem i tykke skiver eller kvarte. Skyl aspargesene i stykker på ca. 2 cm. Halver avocadoerne og tag stenen ud. Tag kødet ud af skallerne med en ske og skær det i tern.
+Vask spinaten og nip stilken af. Vask tomaterne og skær dem i tykke skiver eller kvarte. Skyl aspargesene og skær dem i stykker på ca. 2 cm. Halver avocadoerne og tag stenen ud. Tag kødet ud af skallerne med en ske og skær det i tern.
+
 Kom det hele i en skål og hæld parmesanen over sammen med citronsaft. Vend det hele godt rundt.
