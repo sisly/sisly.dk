@@ -14,9 +14,9 @@ images:
 
 ### Ingredienser til 15 snitter
 ####Mørdej
--   300g mel
--   200g smør
--   100g sukker
+-   300 g mel
+-   200 g smør
+-   100 g sukker
 -   1 æg
 
 -  Hindbærmarmelade 
