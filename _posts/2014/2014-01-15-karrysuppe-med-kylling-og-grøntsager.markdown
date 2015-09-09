@@ -27,11 +27,10 @@ images:
 -  Peber
 
 ####Fyld
--  500g kyllingefilet
+-  500 g kyllingefilet
 -  3-4 gulerødder
 -  1 porre
 -  1 rød peberfrugt
-
 
 ### Fremgangsmåde
 Drys karry i en tykbundet gryde og brænd det, så smagen kommer frem. Kom olien i gryden og tilsæt løg og hvidløg skåret i store tern. Kom vandet og bouillonterningerne i gryden og tilsæt gulerødder og kartofler i store tern. Lad det simre i ca. 20 minutter, til grøntsagerne er så møre, at suppen kan blendes.
