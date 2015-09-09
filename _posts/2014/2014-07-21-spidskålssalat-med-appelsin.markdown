@@ -3,7 +3,7 @@ layout: post
 title: "Spidskålssalat med appelsin"
 date: 2014-07-21 -0100
 categories: ['Salat', 'Tilbehør']
-ingredienser: ['Appelsin', 'Mandler', 'Spidskål']
+ingredienser: ['Appelsin', 'Mandler', 'Spidskål', 'Honning']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167754
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167755
