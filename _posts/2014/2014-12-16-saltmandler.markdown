@@ -10,9 +10,9 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167220
 ---
 ### Ingredienser
--   150g fint salt
+-   150 g fint salt
 -   5 dl vand
--   200g mandler
+-   200 g mandler
 
 ### Fremgangsmåde
 Kom vand og salt i en gryde og bring det i kog. Kog til salten er opløst.
