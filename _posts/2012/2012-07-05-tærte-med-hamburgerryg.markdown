@@ -2,7 +2,7 @@
 layout: post
 title: "Tærte med hamburgerryg"
 date: 2012-07-05
-categories: ['Tærte', 'Svinekød']
+categories: ['Tærte', 'Svinekød', 'Ost']
 ingredienser: ['Hamburgerrug', 'Kartofler', 'Forårsløg', 'Revet ost']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126315
@@ -19,10 +19,10 @@ images:
 ---
 ### Ingredienser til tærtefad på 32 cm
 ####Grov tærtedej
--  2oog hvedemel
--  100g grahamsmel
+-  2oo g hvedemel
+-  100 g grahamsmel
 -  1 tsk. groft salt
--  150g koldt smør
+-  150 g koldt smør
 -  2 æggeblomme
 -  4 spsk. koldt vand
 
@@ -33,7 +33,7 @@ images:
 
 ####Æggemasse
 -  10 æg
--  100g revet ost
+-  100 g revet ost
 -  Salt
 -  Peber
 
