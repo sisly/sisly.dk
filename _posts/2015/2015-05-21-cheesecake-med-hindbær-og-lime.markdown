@@ -15,30 +15,28 @@ images:
 ---
 
 ### Ingredienser
-
 #### Hindbærpuré
--   350g frosne hindbær
+-   350 g frosne hindbær
 -   1 spsk. limesaft
--   50g flormelis
+-   50 g flormelis
 
 #### Kiksebund
--   75g smør
--   150g digestive-kiks
+-   75 g smør
+-   150 g digestive-kiks
 
 #### Flødeostecreme
 -   5 blade husblas
 -   2 lime
--   300g flødeost naturel
--   150g sukker
+-   300 g flødeost naturel
+-   150 g sukker
 -   1½ dl piskefløde
--   200g cremefraiche 
+-   200 g cremefraiche 
 -   2 pasteuriserede æggehvider
 
 #### Pynt
 -   Friske hindbær
 
 ### Fremgangsmåde
-
 #### Kiksebund
 Smelt smørret i en gryde ved svag varme. Knus kiksene fint og bland dem grundigt med smørret. Sæt ringen fra en springform på det, som du ønsker at server kagen på. Pres kiksemassen ud i et jævnt lag. Sørg for at komme godt ud i kanterne. Sæt formen i køleskabet.
 
