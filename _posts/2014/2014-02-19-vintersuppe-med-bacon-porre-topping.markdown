@@ -22,7 +22,7 @@ images:
 -   2 fed hvidløg 
 -   1 L hønsebouillon
 -   1 rød chili 
--   30g frisk ingefær 
+-   30 g frisk ingefær 
 -   Salt 
 -   Peber 
 -   1 pk. bacon i tern
