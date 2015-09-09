@@ -23,7 +23,7 @@ images:
   
 #### Fyld
 -   4 dl fløde
--   250-300g friske hindbær
+-   250-300 g friske hindbær
 
 ### Fremgangsmåde
 Sukker, æg og vaniljesukker piskes hvidt og luftigt. Mel og bagepulver blandes og vendes i æggeblanding sammen med de 2 spsk. kogende vand.
