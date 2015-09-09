@@ -2,8 +2,8 @@
 layout: post
 title: "Speltboller"
 date: 2014-05-29 -0100
-categories: ['Brød og boller']
-ingredienser: ['Smør', 'Æg', 'Speltmel']
+categories: ['Brød og boller', 'Boller']
+ingredienser: ['Speltmel']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167761
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167763
@@ -11,8 +11,8 @@ images:
 ---
 ### Ingredienser til 10 boller
 -   2½ dl lunkent vand 
--   75g afkølet smeltet smør + lidt til pensling 
--   50g gær 
+-   75 g afkølet smeltet smør + lidt til pensling 
+-   50 g gær 
 -   1 spsk sukker 
 -   1½ teske salt 
 -   1 æg 
