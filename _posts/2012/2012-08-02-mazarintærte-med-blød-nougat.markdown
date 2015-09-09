@@ -14,22 +14,22 @@ images:
 
 ### Ingredienser
 #### Mørdej
--   125g koldt smør
--   175g mel
+-   125 g koldt smør
+-   175 g mel
 -   3 spsk sukker
 -   1 æg
 
 ####Fyld
--   150g blødt smør
+-   150 g blødt smør
 -   1 knsp. salt
--   125g sukker
--   200g revet marcipan
+-   125 g sukker
+-   200 g revet marcipan
 -   1 æg 
 -   1 æggehvide
 
 ####Pynt
--   200g smeltet blød nougat
--   25g hasselnødder
+-   200 g smeltet blød nougat
+-   25 g hasselnødder
 
 ### Fremgangsmåde
 ####Mørdej
