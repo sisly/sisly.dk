@@ -2,7 +2,7 @@
 layout: post
 title: "Chili con carne"
 date: 2012-09-24
-categories: ['Oksekød', Til fryseren]
+categories: ['Oksekød', 'Til fryseren']
 ingredienser: ['Hakket okse', 'Chili', 'Hvidløg', 'Peberfrugt', 'Hakkede tomater', 'Bønner']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126819
