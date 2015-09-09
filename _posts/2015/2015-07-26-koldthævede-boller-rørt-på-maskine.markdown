@@ -12,14 +12,14 @@ images:
 ---
 
 ### Ingredienser til 16-20 stk.
--   15g gær
+-   15 g gær
 -   3,5 dl vand
 -   1½ tsk. salt
 -   1,5 dl tykmælk
--   50g havregryn
--   50g rugmel
--   50g grahamsmel
--   300g hvedemel
+-   50 g havregryn
+-   50 g rugmel
+-   50 g grahamsmel
+-   300 g hvedemel
 -   1 tsk. Honning
 
 ### Fremgangsmåde
