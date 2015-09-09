@@ -12,16 +12,15 @@ images:
 ---
 
 ### Ingredienser til ca. 15 cookies
--  150g smør
--  150g sukker
+-  150 g smør
+-  150 g sukker
 -  1 æg
--  200g mel
+-  200 g mel
 -  2 spsk. vaniljesukker
 -  1 tsk. bagepulver
 
--  50g hasselnødder
--  100g mørk chokolade
-
+-  50 g hasselnødder
+-  100 g mørk chokolade
 
 ### Fremgangsmåd
 Rør smør, sukker og æg godt sammen. Tilsæt mel, vaniljesukker og bagepulver og rør igen godt.
