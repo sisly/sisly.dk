@@ -16,10 +16,10 @@ images:
 ### Ingredienser til tærtefad på 32 cm
 
 #### Dej
--   150g margarine
--   150g hytteost
--   100g grahamsmel
--   200g hvedemel
+-   150 g margarine
+-   150 g hytteost
+-   100 g grahamsmel
+-   200 g hvedemel
 
 #### Æggemasse
 -   4 æg
@@ -29,12 +29,10 @@ images:
 -   Salt
 -   Peber
 
-
 #### Fyld
--   1200g helbladet spinat, frost
--   600g laksefilet uden ben
+-   1200 g helbladet spinat, frost
+-   600 g laksefilet uden ben
 -   Citronsaft af ½ citron
-
 
 ### Fremgangsmåde
 Rør ingredienserne til dejen sammen. Tril den til en kugle og kom den i en frostpose. Tryk kuglen lidt flad og læg den i køleskabet i ca. 30 minutter.
