@@ -2,7 +2,7 @@
 layout: post
 title: "Roulade med friske jordbær"
 date: 2012-06-09
-categories: ['Kage', 'Frugt & Bær']
+categories: ['Kage', 'Frugt & Bær', 'Dessert']
 ingredienser: ['Jordbær', 'Fløde']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127938
@@ -22,7 +22,7 @@ images:
 
 #### Fyld
 -   3 dl fløde
--   250g friske jordbær
+-   250 g friske jordbær
 
 ### Fremgangsmåde
 Sukker, æg og vaniljesukker piskes hvidt og luftigt. Mel og bagepulver blandes og vendes i æggeblanding sammen med de 2 spsk. kogende vand.
