@@ -15,20 +15,20 @@ images:
 
 ### Ingredienser til tærtefad på 32 cm
 #### Dej
--   150g margarine
--   250g mel
--   100g ost
+-   150 g margarine
+-   250 g mel
+-   100 g ost
 -   1 ,5 dl tykmælk
 
 #### Fyld:
 -   3 ds. tun
 -   2 porre eller 1 bdt. forårsløg
 -   5 store gulerødder
--   100g ost
+-   100 g ost
 -   3 æg
 -   2,5 dl creme fraiche
 -   0,25 dl mel
--   Basilikum
+-   Tørret basilikum
 -   Salt
 -   Peber
 
@@ -36,6 +36,7 @@ images:
 Bland ingredienserne til dejen sammen. Lad den hvile i køleskabet i mindst 30 minutter.
 
 Rul dejen ud, så den passer til formen, beklæd formen, og brik bunden med en gaffel. Forbag bunden i ca. 10 minutter ved 200&deg;. Denne dejtype kan ikke blindbages.
+
 Skær porre/forårsløg i tynde ringe. Skræl gulerødderne og riv dem groft og svits det hele i olie i 5 minutter. Bland grøntsagerne med resten af fyldet og fordel det på tærtebunden.
 
 Bag tærten ca. 30 minutter ved 200&deg;.
