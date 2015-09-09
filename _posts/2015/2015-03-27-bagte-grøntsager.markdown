@@ -12,7 +12,7 @@ images:
 ---
 
 ### Ingredienser
--   250g champignon
+-   250 g champignon
 -   1 squash
 -   2 rødløg
 -   2 spsk. hvidvinseddike
