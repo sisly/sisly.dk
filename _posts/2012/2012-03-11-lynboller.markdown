@@ -16,13 +16,13 @@ images:
 ---
 
 ### Ingredienser til 12 boller
--   75g smør eller margarine
+-   75 g smør eller margarine
 -   1 dl mælk
--   35g gær
+-   35 g gær
 -   2 spsk. sukker
 -   ½ tsk. salt
 -   1 æg
--   275g hvedemel
+-   275 g hvedemel
 
 -   Æg til pensling
 
