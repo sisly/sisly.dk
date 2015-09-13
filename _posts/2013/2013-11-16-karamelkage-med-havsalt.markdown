@@ -7,9 +7,9 @@ ingredienser: ['Kondenseret mælk', 'Brun farin', 'Kakao']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126112
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126120
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126111
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126115
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126116
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126113
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126115
 ---
 
 ### Ingredienser til fad på ca. 30x30 cm
@@ -19,8 +19,8 @@ images:
 -   8 spsk. kakao
 -   ½ tsk. bagepulver
 -   1½ tsk. vaniljesukker
--   175 g smør
 -   4 æg
+-   175 g smør
 
 #### Karamelfyld:
 -   1 ds. kondenseret mælk
