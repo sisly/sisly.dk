@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mørbrad med pikantost og bacon"
+title: "Mørbrad med pikantost og baconsvøb"
 date: 2013-05-23
-categories: ['Svinekød', 'Ost', 'Til madpakken', 'Til fryseren']
+categories: ['Svinekød', 'Ost']
 ingredienser: ['Bacon', 'Mørbrad', 'Pikantost']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125955
