@@ -2,7 +2,7 @@
 layout: post
 title: "Pandekager med havregryn og banan"
 date: 2014-05-18 -0100
-categories: ['Desert', 'Frugt & Bær']
+categories: ['Frugt & Bær', 'Kage']
 ingredienser: ['Banan', 'Havregryn']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167774
