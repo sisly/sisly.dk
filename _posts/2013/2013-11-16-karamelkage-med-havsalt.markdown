@@ -14,13 +14,13 @@ images:
 
 ### Ingredienser til fad på ca. 30x30 cm
 #### Dej:
--   4 æg
 -   6 dl sukker
--   1½ tsk. vaniljesukker
--   175 g smør
 -   3 dl hvedemel
 -   8 spsk. kakao
 -   ½ tsk. bagepulver
+-   1½ tsk. vaniljesukker
+-   175 g smør
+-   4 æg
 
 #### Karamelfyld:
 -   1 ds. kondenseret mælk
