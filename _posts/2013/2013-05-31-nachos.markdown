@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Nachos"
+date: 2013-05-31 -0100
+categories: ['Snack', 'Ost', 'Junk Food', 'Tilbehør']
+ingredienser: ['Revet ost']
+images:
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125962
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125965
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125966
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125968
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125967
+---
+### Ingredienser
+-   1 ps. nachos
+-   100 g hel rød cheddar - evt. mere 
+-   Creme fraiche
+-   Salsa
+-   Guacamole
+
+### Fremgangsmåde
+Tænd ovnen på 150&deg;.  
+
+Hæld 2/3 af posens indhold i et ildfast fad. Riv cheddar direkte over. Riv på et groft rivejern. Fordel de sidste nachos over og riv igen ost over.
+
+Sæt fadet i ovnen i 6 minutter, til osten er smeltet, men stadig er blød.
+
+Server straks med creme fraiche, salsa og guacamole.
