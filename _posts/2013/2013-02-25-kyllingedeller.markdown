@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kyllingefrikadeller"
+title: "Kyllingedeller"
 date: 2013-02-25
 categories: ['Fjerkræ', 'Til fryseren']
 ingredienser: ['Kylling', 'Havregryn']
