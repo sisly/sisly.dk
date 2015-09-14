@@ -22,8 +22,10 @@ images:
 -  1 tsk. bagepulver
 
 ### Fremgangsmåde
-Alle ingredienserne røres godt sammen. Lad farsen hvile i ½-1 time.
+Det hele æltes sammen til en ensartet dej. Stil den koldt 1 times tid.
 
-Form frikadellerne med en ske og hånden. Kom dem på en varm pande og steg dem ca. 5 minutter på hver side.
+Rul dejen tyndt ud. Den skal være ca. 3 mm. Stik den ud med de ønskede forme, og flyt forsigtigt kagerne over på en bageplade med bagepapir.
 
-Frikadellerne kan fryses.
+Bag småkagerne ved 200o i 10-12 minutter. De skal være lysebrune.
+
+Når kagerne er helt kolde kan de evt. pyntes med glasur og krymmel. Opbevar dem i en lufttæt kagedåse.
