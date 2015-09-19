@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choko-roulade med friske jordbær"
-date: 2012-24-06
+date: 2012-06-24
 categories: ['Kage', 'Frugt & Bær']
 ingredienser: ['Kakao', 'fløde', 'Jordbær', 'Kakao']
 images:
