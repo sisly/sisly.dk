@@ -40,20 +40,23 @@
         $(document).on("backstretch.before", function (e, instance, index) {
             $('.loader').addClass('loading');
         });
-        $(document).on('scrollstop', function () {
-            if (steps.length > 0) {
-                var percentage = scrollPercentage();
-                for (var i = 0; i < steps.length; i++) {
-                    if (percentage < steps[i]) {
-                        if (i == $("body").data("backstretch").index) {
+        if(pauseBackStretch) {
+            $(document).on('scrollstop', function () {
+                if (steps.length > 0) {
+                    var percentage = scrollPercentage();
+                    for (var i = 0; i < steps.length; i++) {
+                        if (percentage < steps[i]) {
+                            if (i == $("body").data("backstretch").index) {
+                                break;
+                            }
+                            $.backstretch('show', i);
                             break;
                         }
-                        $.backstretch('show', i);
-                        break;
                     }
                 }
-            }
-        });
+            });
+        }
+        
         $(document).on("backstretch.after", function (e, instance, index) {
             $('.loader').removeClass('loading');
         });
