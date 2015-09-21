@@ -23,8 +23,10 @@
             {% endif %}
         ];
 
-        images.sort(function() { return 0.5 - Math.random() });
-        images = images.slice(0, 10);
+        if(!pauseBackStretch) {
+            images.sort(function() { return 0.5 - Math.random() });
+            images = images.slice(0, 10);
+        }
 
         if (images.length > 0) {
             $('.loader').addClass('loading');
