@@ -19,7 +19,7 @@ images:
 ---
 ### Ingredienser til tærtefad på 32 cm
 ####Grov tærtedej
--  2oo g hvedemel
+-  200 g hvedemel
 -  100 g grahamsmel
 -  1 tsk. groft salt
 -  150 g koldt smør
