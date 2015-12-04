@@ -19,9 +19,9 @@ images:
 -   Kakao (hvis der bruges hvid chikolade)
 
 ### Fremgangsmåde
-Kom mandlerne i en gryde og dæk dem med vand. Bring vandet i kog og kog herefter videre i 2 minutter, så skrællen løsnes og mandlerne kan smuttes. Hæld koldt vand over, så de køler hurtigere.
+Kom mandlerne i en gryde og dæk dem med vand. Bring vandet i kog og ladd et koge i 2 minutter, så skrællen løsnes og mandlerne kan smuttes. Hæld koldt vand over, så de køler hurtigere.
 
-Smut mandlerne. Halver mandlerne og skær herefter hver de i 3 stave. Kom mandelsplitterne på en bageplade med bagepapir. Kom ca. 1 tsk. flormelis i en lille sigte og sigt det over mandelsplitterne. Rist dem i ovnen ved 200 &deg i 10-15 minutter. Vend mandlerne rundt et par gange. Pas på de ikke får for meget!
+Smut mandlerne. Halver dem og skær herefter hver del i 3 stave. Kom mandelsplitterne på en bageplade med bagepapir. Kom ca. 1 tsk. flormelis i en lille sigte og sigt det over mandelsplitterne. Rist dem i ovnen ved 200 &deg i 10-15 minutter. Vend mandlerne rundt et par gange. Pas på de ikke får for meget!
 
 Smelt chokoladen over vandbad. Kom rosinerne og de letafkølede mandelsplitter i og vend det hele godt rundt.
 
