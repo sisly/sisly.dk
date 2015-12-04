@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grydebrød-med-rugmel"
+title: "Grydebrød med rugmel"
 date: 2013-11-09
 categories: ['Brød', 'Brød & Boller']
 ingredienser: []
