@@ -42,6 +42,6 @@ Steg den lufttørret skinke/bacon på panden, til det er sprødt. Smuldr det og 
 
 Bland persille sammen med citronsaft og citronskal.
 
-Servér suppen med skinke/bacon, persilleblandingen og groftrevet parmesan. Servér brød eller rugbrødschips eller brød til. 
+Servér suppen med skinke/bacon, persilleblandingen og groftrevet parmesan. Servér rugbrødschips eller brød til. 
 
 Suppen kan fryses.
