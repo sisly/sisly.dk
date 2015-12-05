@@ -14,7 +14,6 @@ images:
 ---
 
 ### Ingredienser til tærtefad på 32 cm
-
 #### Dej
 -   150 g margarine
 -   150 g hytteost
