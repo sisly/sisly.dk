@@ -37,7 +37,7 @@ images:
 ### Fremgangsmåde
 Kom mel og salt i en skål. Skær smørret i mindre stykker og kom det i melblandingen, tilsæt de øvrige ingredienser. Brug hænderne så lidt som muligt, når dejen skal samles, så den ikke bliver varm. Tryk dejkuglen lidt flad, læg den i en plasticpose i køleskabet i mindst ½ time.
 
-Rul tærtedejen ud i ca. ½ cm tykkelse. Beklæd tærteformen. Prik bunden med en gaffel og bag den i en forvarmet ovn ved 225o i 10 minutter.
+Rul tærtedejen ud i ca. ½ cm tykkelse. Beklæd tærteformen. Prik bunden med en gaffel og bag den i en forvarmet ovn ved 225&deg; i 10 minutter.
 
 Del broccolien i små buketter. Kog dem et par minutter i vand med salt. Fordel broccoli på den forbagte tærtebund. Kom skinke over. Pisk ingredienserne sammen til æggemassen og hæld den over skinken.
 
