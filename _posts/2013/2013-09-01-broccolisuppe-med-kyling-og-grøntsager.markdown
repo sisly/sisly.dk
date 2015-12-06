@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Broccolisuppe med grøntsager"
+title: "Broccolisuppe med kylling og grøntsager"
 date: 2013-09-01
 categories: ['Suppe', 'Fjerkræ']
 ingredienser: ['Bacon', 'Sukkerærter', 'Broccoli', 'Porre', 'Squash', 'Champignon', 'Peberfrugt', 'Chili', 'Kylling', 'Karry', 'Til fryseren']
 images:
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126048
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126049
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126048
 ---
 
 ### Ingredienser
