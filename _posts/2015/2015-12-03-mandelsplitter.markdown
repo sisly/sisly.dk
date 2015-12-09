@@ -21,7 +21,7 @@ images:
 -   150 g chokolade (mørk eller hvid)
 -   50 g rosiner
 -   Flormelis
--   Kakao (hvis der bruges hvid chikolade)
+-   Kakao (hvis der bruges hvid chokolade)
 
 ### Fremgangsmåde
 Kom mandlerne i en gryde og dæk dem med vand. Bring vandet i kog og ladd et koge i 2 minutter, så skrællen løsnes og mandlerne kan smuttes. Hæld koldt vand over, så de køler hurtigere.
