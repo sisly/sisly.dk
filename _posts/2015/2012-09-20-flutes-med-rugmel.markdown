@@ -6,9 +6,9 @@ categories: ['Tilbehør', 'Brød & Boller', 'Flutes', 'Til fryseren']
 ingredienser: ['Rugmel']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126670
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126675
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126681
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126678
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126675
 ---
 
 ### Ingredienser til 2 flutes
