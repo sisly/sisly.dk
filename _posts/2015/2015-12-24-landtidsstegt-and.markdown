@@ -16,7 +16,7 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!230698
 ---
 
-### Ingrediense
+### Ingredienser
 -   1 pose svesker uden sten
 -   1-2 Belle De Boskop æbler
 -   Groft salt
@@ -33,7 +33,7 @@ Læg anden på risten med brystet opad og sæt den ind i oven over bradepanden.
 
 Hæld gerne skyen over anden ca. hver halve time.
 
-Efter 5½ time skrues ovnen op på 225&deg, og anden steger videre ca 15 minutter til den skindet er sprødt.
+Efter 5½ time skrues ovnen op på 225&deg, og anden steger videre ca. 15 minutter til den skindet er sprødt.
 
 Lad anden hvile 10 minutter inden den parteres og fyldet tages ud.
 
