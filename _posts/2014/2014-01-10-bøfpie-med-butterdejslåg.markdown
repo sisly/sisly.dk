@@ -15,7 +15,6 @@ images:
 ---
 ### Ingredienser til 4 personer
 -   1 pk. frossen butterdej
-
 -   Margarine
 -   2-3 skalotteløg
 -   2-3 fed hvidløg
@@ -25,7 +24,6 @@ images:
 -   1/2 squash
 -   Salt
 -   Peber
-
 -   1 æg
 
 ### Fremgangsmåde
@@ -37,4 +35,4 @@ Kom kødfyldet over den forbagte bund.
 
 Rul den sidste halvdel af butterdejen ud. og kom den på som låg. Prik igen med en gaffel. Pensl grundigt med æg.
 
-Bag pien i ca. 30 minutter.
+Bag pieen i ca. 30 minutter.
