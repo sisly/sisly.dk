@@ -2,7 +2,7 @@
 layout: post
 title: "Muffins med appelsin og citron"
 date: 2015-12-27
-categories: ['Kage', 'Muffins']
+categories: ['Kage', 'Muffins', 'frugt & Bær']
 ingredienser: ['Citron', 'Appelsin']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!229748
