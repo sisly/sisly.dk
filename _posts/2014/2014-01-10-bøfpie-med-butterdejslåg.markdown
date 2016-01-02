@@ -2,8 +2,8 @@
 layout: post
 title: "Bøfpie med butterdejslåg"
 date: 2014-01-10 -0100
-categories: ['Tærte', 'Oksekøb']
-ingredienser: ['Butterdej', 'Hvidløg', 'Skalotteløg', 'Champignon', 'Squash', 'Hakket kød', 'Peberfrugt']
+categories: ['Tærte', 'Oksekød']
+ingredienser: ['Butterdej', 'Hvidløg', 'Skalotteløg', 'Champignon', 'Squash', 'Hakket okse', 'Peberfrugt']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126126
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126124
