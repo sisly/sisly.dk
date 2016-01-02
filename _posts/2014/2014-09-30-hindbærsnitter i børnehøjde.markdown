@@ -2,7 +2,7 @@
 layout: post
 title: "Hindbærsnitter i børnehøjde"
 date: 2014-09-30
-categories: ['Kage', 'Mørdej', 'Grunddej']
+categories: ['Kage', 'Mørdej']
 ingredienser: ['Marmelade', 'Hindbær']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126208
