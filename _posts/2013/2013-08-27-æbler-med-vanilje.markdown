@@ -3,7 +3,7 @@ layout: post
 title: "Æbler med vanilje"
 date: 2013-08-27
 categories: ['Snack', 'Til madpakken', 'Frugt & bær']
-ingredienser: ['Æbler', 'Vanilje', 'Citronsaft']
+ingredienser: ['Æbler', 'Vanilje', 'Citron']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126044
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126046
