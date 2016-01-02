@@ -11,6 +11,7 @@ images:
 ### Ingredienser
 -   2 dl sukker
 -   2 tsk. vanillesukker
+-   3 æg
 -   2 dl hvedemel
 -   1 tsk. bagepulver
 -   100 g smør
