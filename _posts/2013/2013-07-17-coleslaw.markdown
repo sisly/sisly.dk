@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coleslaw"
-date: 2013-07-175 -0100
+date: 2013-07-17 -0100
 categories: ['Salat', 'Tilbehør']
 ingredienser: ['Gulerdder', 'Hvidkål']
 images:
