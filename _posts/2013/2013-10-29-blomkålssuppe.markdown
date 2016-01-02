@@ -2,7 +2,7 @@
 layout: post
 title: "Blomkålssuppe"
 date: 2013-10-29
-categories: ['Suppe', 'Til fryseren', 'Ost']
+categories: ['Suppe', 'Til fryseren', 'Ost', 'Forret']
 ingredienser: ['Blomkål', 'Citron', 'Kartofler', 'Lufttørret skinke', 'Parmesan', 'Persille', 'Skalotteløg', 'Cremefine' ]    
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126095
@@ -43,5 +43,7 @@ Steg den lufttørret skinke/bacon på panden, til det er sprødt. Smuldr det og 
 Bland persille sammen med citronsaft og citronskal.
 
 Servér suppen med skinke/bacon, persilleblandingen og groftrevet parmesan. Servér rugbrødschips eller brød til. 
+
+Suppen kan evt. serveres som forret.
 
 Suppen kan fryses.
