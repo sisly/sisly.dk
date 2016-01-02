@@ -2,7 +2,7 @@
 layout: post
 title: "Banankage med chokolade og nødder"
 date: 2014-07-27 -0100
-categories: ['Kage']
+categories: ['Kage', 'Frugt & Bær']
 ingredienser: ['Banan', 'Chokolade', 'Hasselnødder']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!167751
