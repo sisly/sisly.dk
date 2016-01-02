@@ -3,7 +3,7 @@ layout: post
 title: "Choko-roulade med friske jordbær"
 date: 2012-06-24
 categories: ['Kage', 'Frugt & Bær']
-ingredienser: ['Kakao', 'fløde', 'Jordbær', 'Kakao']
+ingredienser: ['Kakao', 'Fløde', 'Jordbær', 'Kakao']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126257
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126251
