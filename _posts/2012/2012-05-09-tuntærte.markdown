@@ -3,7 +3,7 @@ layout: post
 title: "Tuntærte"
 date: 2012-05-09 -0100
 categories: ['Tærte', 'Fisk & Skalddyr', 'Ost']
-ingredienser: ['Tun', 'Gulerødder', 'Reven ost', 'Porre', 'Forårsløg', 'Tykmælk', 'Creme Fraiche', 'Basilikum']
+ingredienser: ['Tun', 'Gulerødder', 'Revet ost', 'Porre', 'Forårsløg', 'Tykmælk', 'Creme Fraiche', 'Basilikum']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124665
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124659
