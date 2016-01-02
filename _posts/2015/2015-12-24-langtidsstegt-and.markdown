@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Landtidsstegt and"
+title: "Langtidsstegt and"
 date: 2015-12-24
 categories: ['Jul', 'Fjerkræ']
 ingredienser: ['And', 'Svesker', 'Æbler']
