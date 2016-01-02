@@ -3,7 +3,7 @@ layout: post
 title: "Blomkålssuppe"
 date: 2013-10-29
 categories: ['Suppe', 'Til fryseren', 'Ost']
-ingredienser: ['Blomkål', 'Citron', 'Kartofler', 'Lufttørret skinke', 'Pamesan', 'Persille', 'Skalotteløg', 'Cremefine' ]    
+ingredienser: ['Blomkål', 'Citron', 'Kartofler', 'Lufttørret skinke', 'Parmesan', 'Persille', 'Skalotteløg', 'Cremefine' ]    
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126095
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126094
