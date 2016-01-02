@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Banankage med chokoladestykker"
+title: "Banankage med chokolade og nødder"
 date: 2014-07-27 -0100
 categories: ['Kage']
 ingredienser: ['Banan', 'Chokolade', 'Hasselnødder']
