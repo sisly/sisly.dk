@@ -2,7 +2,7 @@
 layout: post
 title: "Mandelsplitter"
 date: 2015-12-03
-categories: ['Jul']
+categories: ['Jul', 'Chokolade']
 ingredienser: ['Mandler', 'Rosiner', 'Chokolade', 'Flormelis', 'Kakao']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!223262
