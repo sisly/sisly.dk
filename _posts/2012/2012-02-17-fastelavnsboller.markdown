@@ -2,7 +2,7 @@
 layout: post
 title: "Fastelavnsboller"
 date: 2012-02-17 -0100
-categories: ['Boller', 'Brød & Boller','Kage']
+categories: ['Boller','Kage']
 ingredienser: ['Kagecreme']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125838
