@@ -2,8 +2,8 @@
 layout: post
 title: "American cookies"
 date: 2012-03-21
-categories: ['Kage', 'Cookies']
-ingredienser: ['Chokolade', 'Hasselnødder', 'Brun farin', 'Havregryn']
+categories: ['Kage', 'Cookies', 'Chokolade']
+ingredienser: ['Mørk chokolade', 'Hasselnødder', 'Brun farin', 'Havregryn']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125853
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125855
