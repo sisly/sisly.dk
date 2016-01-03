@@ -2,7 +2,7 @@
 layout: post
 title: "Flutes-med-rugmel"
 date: 2015-09-20
-categories: ['Tilbehør', 'Brød & Boller', 'Flutes', 'Til fryseren', 'Brød']
+categories: ['Tilbehør', 'Flutes', 'Til fryseren', 'Brød']
 ingredienser: ['Rugmel']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126670
