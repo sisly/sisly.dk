@@ -61,4 +61,4 @@ Når kødet er færdigt tages den ud og trækkes fra hinanden med 2 gafler. Den 
 
 Riv hvidløget i en skål og tilsæt de øvrige ingredienser til barbecuesaucen. Rør godt. Lad saucen trække i 15-30 minutter, så sukkeret når at blive opløst.
 
-Server barbecuesausen og vinegarsausen til og naturligvis en god coleslaw.
+Server barbecuesausen og vinegarsausen til og naturligvis en god <a href="/arkiv/2013/07/17/coleslaw/">coleslaw</a> .
