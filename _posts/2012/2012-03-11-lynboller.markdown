@@ -2,7 +2,7 @@
 layout: post
 title: "Lynboller"
 date: 2012-03-11
-categories: ['Boller', 'Brød & Boller', 'Fødselsdag', 'Til fryseren']
+categories: ['Boller', 'Fødselsdag', 'Til fryseren']
 ingredienser: []
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126907
