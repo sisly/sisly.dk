@@ -2,8 +2,8 @@
 layout: post
 title: "Cookies med chokolade og hasselnødder"
 date: 2012-02-24
-categories: ['Kage', 'Cookies']
-ingredienser: ['Chokolade', 'Hasselnødder']
+categories: ['Kage', 'Cookies', 'Chokolade']
+ingredienser: ['Mørk chokolade', 'Hasselnødder']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125846
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125847
