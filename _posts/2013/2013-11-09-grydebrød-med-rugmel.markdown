@@ -2,7 +2,7 @@
 layout: post
 title: "Grydebrød med rugmel"
 date: 2013-11-09
-categories: ['Brød', 'Brød & Boller']
+categories: ['Brød']
 ingredienser: []
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126103
