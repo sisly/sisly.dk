@@ -2,7 +2,7 @@
 layout: post
 title: "Gulerodsbrud"
 date: 2012-02-01
-categories: ['Boller', 'Brød & Boller', 'Til fryseren', 'Til madpakken']
+categories: ['Boller', 'Til fryseren', 'Til madpakken']
 ingredienser: ['Gulerødder', 'Solsikkekerner']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125812
