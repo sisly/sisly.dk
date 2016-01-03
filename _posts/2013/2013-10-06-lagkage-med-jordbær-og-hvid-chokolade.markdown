@@ -2,7 +2,7 @@
 layout: post
 title: "Lagkage med jordbær og hvid chokolade"
 date: 2013-10-06 -0100
-categories: ['Fødselsdag', 'Lagkage', 'Kage']
+categories: ['Fødselsdag', 'Lagkage', 'Kage', 'Chokolade']
 ingredienser: ['Jordbær', 'Hvid chokolade', 'Fløde']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126089
