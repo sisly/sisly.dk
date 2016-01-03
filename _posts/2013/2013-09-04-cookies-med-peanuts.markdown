@@ -2,7 +2,7 @@
 layout: post
 title: "Cookies med peanuts"
 date: 2013-09-04
-categories: ['Cookies', 'Kage']
+categories: ['Cookies', 'Kage', 'Chokolade']
 ingredienser: ['Hvid chokolade', 'Peanuts', 'Havregryn']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126050
