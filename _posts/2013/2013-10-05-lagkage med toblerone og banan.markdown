@@ -21,7 +21,7 @@ images:
 
 3 bananer
 
-3 regnbue-lagkagebunde <a href="/arkiv/2013/10/04/regnbuebunde/">a>
+3 regnbue-lagkagebunde <a href="/arkiv/2013/10/04/regnbuebunde</a>
 
 ### Fremgangsmåde
 Hak tobleronen og kom  det i en lille gryde sammen med fløde. Bring det i kog ved meget svag varme. Så snart chokoladen er smeltet og rørt godt ud i fløden tages gryden af blusset. Sæt den i køleskabet natten over, eller mindst 5 timer. Cremen skal være helt kold, ellers kan den ikke piskes. Du må ikke lægge låg på, da kondensvandet vil ødelægge cremen. Hvis du VIL have cremen dækket, kan du i stedet lægge folie ned over cremen, så det rører overfladen, således der ikke er luft imellem.
