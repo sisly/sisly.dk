@@ -2,8 +2,8 @@
 layout: post
 title: "Lagkage med toblerone og banan"
 date: 2013-10-05 -0100
-categories: ['Fødselsdag', 'Lagkage', 'Kage']
-ingredienser: ['Banan', 'Chokolade', 'Fløde']
+categories: ['Fødselsdag', 'Lagkage', 'Kage', 'Chokolade']
+ingredienser: ['Banan', 'Toblerone', 'Fløde', 'Lys chokolade']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126071
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!126075
