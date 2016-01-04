@@ -3,7 +3,7 @@ layout: post
 title: "Fastelavnsboller"
 date: 2012-02-17 -0100
 categories: ['Boller','Kage']
-ingredienser: ['Kagecreme']
+ingredienser: ['Kagecreme', 'Gær']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125838
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125844
