@@ -3,7 +3,7 @@ layout: post
 title: "Grove pølsehorn"
 date: 2013-01-08
 categories: ['Brød', 'Til madpakken', 'Til fryseren']
-ingredienser: ['Pølser', 'Ketchup']
+ingredienser: ['Pølser', 'Ketchup', 'Gær']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!169685
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125808
