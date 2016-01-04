@@ -11,7 +11,7 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125979
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!125982
 ---
-### Ingredienser til 8 burgerboller
+### Ingredienser
 -   2 spsk. olivenolie
 -   1 løg
 -   2 mellemstore gulerødder
