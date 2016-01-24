@@ -16,7 +16,7 @@ images:
 
 ### Ingredienser til tærtefad på 32 cm
 #### Tærtedej:
--   2oo g hvedemel
+-   200 g hvedemel
 -   100 g grahamsmel
 -   1 tsk. groft salt
 -   150 g koldt smør
@@ -25,7 +25,7 @@ images:
 
 #### Fyld
 -   2 broccoli
--   2 pk. Skinke i strimler
+-   2 pk. skinke i strimler
 
 #### Æggemasse
 -   2½ dl syrnet fløde/A38
