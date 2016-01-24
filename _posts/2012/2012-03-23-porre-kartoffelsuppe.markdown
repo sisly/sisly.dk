@@ -2,8 +2,8 @@
 layout: post
 title: "Porrekartoffelsuppe"
 date: 2012-03-23 -0100
-categories: ['Tilbehør', 'Ost']
-ingredienser: ['Kartofler', 'Revet ost', 'Muskatnød']
+categories: ['Suppe, 'Til fryseren']
+ingredienser: ['Porre', 'Kartofler', 'Bacon']
 images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127386
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127385
