@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Karfoffelkager"
+date: 2016-01-23 -0100
+categories: ['Tilbehør', 'Ost']
+ingredienser: ['Kartofler', 'Revet ost', 'Muskatnød']
+images:
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127386
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127389
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127391
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127394
+---
+
+### Ingredienser til fad på ca. 36 stk.
+#### Dej:
+-   1,5 kg kartofler
+-   200 g reven ost
+-   50 g margarine
+-   Muskatnød
+-   Salt
+-   Peber
+
+### Fremgangsmåde
+Skral kartoflerne og riv dem groft. Smelt smørret og hæld det over kartoflerne samme med osten. Riv lidt muskatnød over og tilsæt salt og peber. Vende det hele rigtig godt rundt.
+
+Brug 2 skeer til at komme massen på en bradepande beklædt med bagepapir.  Form dem til 12 ”kager”, som ikke må være alt for høje, så bliver de ikke sprøde.
+
+Bag dem 15-20 minutter ved 200&deg; 
