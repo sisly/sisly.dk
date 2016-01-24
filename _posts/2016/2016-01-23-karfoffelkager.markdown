@@ -11,7 +11,7 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127394
 ---
 
-### Ingredienser til fad på ca. 36 stk.
+### Ingredienser til ca. 36 stk.
 #### Dej:
 -   1,5 kg kartofler
 -   200 g reven ost
