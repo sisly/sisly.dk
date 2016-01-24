@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Porre-kartoffelsuppe"
-date: 2012-03-23
+date: 2012-03-23 -0100
 categories: ['Suppe, 'Til fryseren']
 ingredienser: ['Porre', 'Kartofler', 'Bacon']
 images:
@@ -10,6 +10,7 @@ images:
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124266
     - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124271
 ---
+
 ### Ingredienser til 3L
 -   1 porre
 -   ½ spsk. olie
