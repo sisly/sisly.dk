@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karfoffelkager"
+title: "Porrekartoffelsuppe"
 date: 2016-01-23 -0100
 categories: ['Tilbehør', 'Ost']
 ingredienser: ['Kartofler', 'Revet ost', 'Muskatnød']
