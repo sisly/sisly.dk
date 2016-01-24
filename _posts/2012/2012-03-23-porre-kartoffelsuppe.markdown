@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Porrekartoffelsuppe"
-date: 2012-03-23 -0100
-categories: ['Suppe, 'Til fryseren']
-ingredienser: ['Porre', 'Kartofler', 'Bacon']
+title: "Karfoffelkager"
+date: 2016-01-23 -0100
+categories: ['Tilbehør', 'Ost']
+ingredienser: ['Kartofler', 'Revet ost', 'Muskatnød']
 images:
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!241863
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124255
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124266
-    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!124271
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127386
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127385
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127389
+    - https%3A%2F%2Fonedrive.live.com%2Fdownload%3Fresid%3D642D8920DB2784EE!127394
 ---
 
 ### Ingredienser til 3L
