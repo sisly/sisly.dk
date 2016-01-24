@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Porre-kartoffelsuppe"
+title: "Porrekartoffelsuppe"
 date: 2012-03-23 -0100
 categories: ['Suppe, 'Til fryseren']
 ingredienser: ['Porre', 'Kartofler', 'Bacon']
