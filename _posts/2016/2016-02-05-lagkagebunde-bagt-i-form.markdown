@@ -24,7 +24,7 @@ images:
 ### Fremgangsmåde
 Pisk æg, sukker, vaniljesukker og vand kraftigt! I 10-15 minutter. Jo mere luft der er pisket i, jo mere luftige bliver bundene.
 
-Sigt mel, salt og bagepulver i æggene og vend det forsigtigt rundt med en dejskraber. Smør en form ca. 25 cm og hæld dejen i.  Bages i ca. 20 min. Ved 200&deg; 
+Sigt mel, salt og bagepulver i æggene og vend det forsigtigt rundt med en dejskraber. Klip et stykkebagepapir ud, så det passer til formen. Læg det i bunden og hæld så dejen over.  Bages i ca. 20 min. Ved 200&deg; 
 
 Når kagen er kølet deles den i 3.
 
