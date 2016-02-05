@@ -14,7 +14,7 @@ images:
 ### Ingredienser til 3 lagkagebunde
 -   6 æg - stuetemperatur!
 -   240 g sukker
--   1½ spsk vand 
+-   2 spsk vand 
 -   2 tsk vaniljesukker
 -   180 g mel 
 -   1½ knivspids salt
@@ -22,7 +22,7 @@ images:
 
 
 ### Fremgangsmåde
-Pisk æg, sukker, vaniljesukker og vand kraftigt! I 10-15 minutter. Jo mere luft der er pisket i, jo mere luftige bliver bundene.
+Pisk æg, sukker, vaniljesukker og vand ved høj hastighed i 10-15 minutter. Jo mere luft der er pisket i, jo mere luftige bliver bundene.
 
 Sigt mel, salt og bagepulver i æggene og vend det forsigtigt rundt med en dejskraber. Klip et stykkebagepapir ud, så det passer til formen. Læg det i bunden og hæld så dejen over.  Bages i ca. 20 min. Ved 200&deg; 
 
