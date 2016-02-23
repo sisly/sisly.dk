@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spinatpandekager med kødfyld"
+title: "Panderkager med spinat og kødfyld"
 date: 2016-02-16
 categories: ['Oksekød']
 ingredienser: ['Spinat', 'Hakket okse', 'Champignon', 'Snackpeber', 'Gulerødder', 'Cayennepeber']
