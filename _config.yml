@@ -24,9 +24,7 @@ google_analytics_tracking_id: 0
 #
 # Jekyll Settings
 #
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
+markdown: kramdown
 permalink: /arkiv/:year/:month/:day/:title/
 paginate: 20
 paginate_path: "page/:num"
