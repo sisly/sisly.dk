@@ -14,7 +14,7 @@ images:
 ### Ingredienser til ca. 36 stk.
 #### Dej:
 -   1,5 kg kartofler
--   200 g reven ost
+-   200 g revet ost
 -   50 g margarine
 -   Muskatnød
 -   Salt
